@@ -11,6 +11,8 @@ pre: " <b> 1.1. </b> "
 
 * Kết nối, làm quen với các thành viên trong First Cloud Journey.
 * Tìm hiểu về tổ chức và các dịch vụ cơ bản của AWS.
+* Hiểu các khái niệm cơ bản của React và thiết lập môi trường phát triển.
+* Làm quen với các tính năng JavaScript ES6+ như arrow functions, async/await, destructuring, và import/export.
 
 ## Các công việc cần triển khai trong tuần này
 
@@ -20,6 +22,13 @@ pre: " <b> 1.1. </b> "
 | 2 | - Tạo tài khoản AWS<br>- Xem và vẽ lại kiến trúc mẫu trên phần mềm draw.io<br>- Tìm hiểu về điện toán đám mây | 09/09/2025 | 09/09/2025 | [cloudjourney.awsstudygroup.com](https://cloudjourney.awsstudygroup.com/) |
 | 3 | - Tìm hiểu về mục tiêu của chương trình The First Cloud Journey và website AWS<br>- Thực hiện các thao tác đầu trên tài khoản đã tạo:<br>&emsp;+ Tạo budget<br>&emsp;+ Tạo groups<br>&emsp;+ Thiết lập bảo mật hai lớp<br>- Tìm hiểu về Support Centre của website AWS, cách hoạt động và cách gửi yêu cầu hỗ trợ | 10/09/2025 | 10/09/2025 | [cloudjourney.awsstudygroup.com](https://cloudjourney.awsstudygroup.com/) |
 | 4 | - Tạo VPC<br>- Chỉnh cấu hình cho VPC<br>- Tạo Subnet<br>- Cấu hình Subnet public để tự động cấp phát IP công cộng<br>- Tạo Internet Gateway<br>- Cấu hình Internet Gateway để kết nối với VPC<br>- Tạo Route Table<br>- Cấu hình Route Table để kết nối với Internet Gateway<br>- Cấu hình Subnet Associations thành công<br>- Tạo Security Group (public)<br>- Tạo Security Group (private) | 11/09/2025 | 14/09/2025 | [cloudjourney.awsstudygroup.com](https://cloudjourney.awsstudygroup.com/) |
+| 5 | Cài đặt Node.js và npm (Node Package Manager). | 06/09/2025 | 06/09/2025 | [Official Node.js](https://nodejs.org/) |
+| 6 | Thiết lập ứng dụng React bằng create-react-app. | 07/09/2025 | 07/09/2025 | [React Docs](https://react.dev/) |
+| 7 | Tìm hiểu component, JSX và Props trong React. | 08/09/2025 | 08/09/2025 | [React Docs - Components](https://react.dev/learn/your-first-component) |
+| 8 | Hiểu state và các phương thức vòng đời trong React. | 09/09/2025 | 09/09/2025 | [React Docs - State & Lifecycle](https://react.dev/learn) |
+| 9 | Học và áp dụng arrow functions và async/await trong JavaScript. | 10/09/2025 | 10/09/2025 | [JavaScript ES6+ Features](https://developer.mozilla.org/docs/Web/JavaScript) |
+| 10 | Làm việc với destructuring trong JavaScript. | 11/09/2025 | 11/09/2025 | [JavaScript Destructuring](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment) |
+| 11 | Tìm hiểu import/export trong module JavaScript. | 12/09/2025 | 12/09/2025 | [MDN JavaScript Modules](https://developer.mozilla.org/docs/Web/JavaScript/Guide/Modules) |
 
 ## Kết quả đạt được tuần 1
 
@@ -40,3 +49,5 @@ pre: " <b> 1.1. </b> "
   * Tạo và cấu hình Route Table, kết nối với Internet Gateway.
   * Cấu hình Subnet Associations thành công.
   * Tạo Security Group cho cả public và private.
+* Thiết lập thành công môi trường React và tạo component đầu tiên với JSX.
+* Nắm vững các tính năng JavaScript ES6+ (arrow functions, async/await, destructuring, import/export) và áp dụng vào React.

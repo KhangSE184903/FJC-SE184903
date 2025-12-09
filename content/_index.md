@@ -10,11 +10,11 @@ chapter: false
 
 
 ### Student Information:
-&emsp; **Full Name:** Chau Gia Kiet
+&emsp; **Full Name:** Tran Duy Khang
 
-&emsp; **Phone Number:** 0836769459
+&emsp; **Phone Number:** 0903898575
 
-&emsp; **Email:** kietcgse180513@fpt.edu.vn
+&emsp; **Email:** khangtdse184903@fpt.edu.vn
 
 &emsp; **University:** FPT University
 
@@ -28,7 +28,7 @@ chapter: false
 
 &emsp; **Internship Duration:** From 12/08/2025 to 12/11/2025
 
-![Chau Gia Kiet - Profile Picture](/images/Avatar.jpg)
+![Chau Gia Kiet - Profile Picture](/images/Avatar.png)
 
 ### Report Content
 

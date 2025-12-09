@@ -14,6 +14,8 @@ pre: "<b>1.3. </b>"
 - Learn and configure Hybrid DNS with Route 53 Resolver.
 - Explore and set up VPC Peering for inter-VPC communication.
 - Discuss project plans and programming language choices with the team.
+- Deep dive into React Router for navigation in single-page applications.
+- Learn React Context API for managing state globally.
 
 ### Tasks to be carried out this week
 
@@ -23,6 +25,13 @@ pre: "<b>1.3. </b>"
 | 2 | - Complete Lab 10 to learn about Route 53 and configure Hybrid DNS.<br>- Launch a virtual server to implement and test DNS setup. | 24/09/2025 | 25/09/2025 | [REFER HERE](https://youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i&si=NtlkPHvTydrkH4rK) |
 | 3 | - Set up VPC Peering to enable communication between VPCs in the same AWS Cloud.<br>- Create necessary resources for VPC Peering.<br>- Clean up resources after completion. | 25/09/2025 | 26/09/2025 | [REFER HERE](https://youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i&si=NtlkPHvTydrkH4rK) |
 | 4 | - Attend a team meeting to discuss project plans and programming language selection. | 28/09/2025 | 28/09/2025 | |
+| 5 | Study React Router for handling navigation in a React app. | 21/09/2025 | 21/09/2025 | [React Router](https://reactrouter.com/) |
+| 6 | Implement React Router in the travel-guide app for navigating between pages. | 22/09/2025 | 22/09/2025 | [React Router Docs](https://reactrouter.com/en/main/start/overview) |
+| 7 | Learn about React Context API to manage global state. | 23/09/2025 | 23/09/2025 | [React Context API](https://react.dev/reference/react/useContext) |
+| 8 | Set up React Context in the app to manage shared state. | 24/09/2025 | 24/09/2025 | - |
+| 9 | Apply React Router and Context API to handle routing and state management in your project. | 25/09/2025 | 25/09/2025 | - |
+| 10 | Study Prop drilling and how to avoid it using Context API. | 26/09/2025 | 26/09/2025 | [Prop Drilling & Context](https://react.dev/learn/passing-data-deeply-with-context) |
+| 11 | Optimize your app's routing and state management using React Router and Context API. | 27/09/2025 | 27/09/2025 | - |
 
 ### Week 3 Achievements
 
@@ -36,3 +45,5 @@ pre: "<b>1.3. </b>"
 - Successfully enabled Cross-Zone and Cross-Region DNS Resolution in VPC Peering, allowing EC2 instances in different VPCs to resolve private IP addresses via DNS.
   - Understood that without this feature, DNS queries return public IPs, causing traffic to route through the internet.
 - Participated in a team meeting, finalized the programming language for the project, and set deadlines for team members to further study the chosen language.
+- Successfully implemented React Router for navigation.
+- Mastered React Context API to manage global state across components without prop drilling.

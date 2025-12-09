@@ -13,6 +13,8 @@ pre: "<b>1.4. </b>"
 - Keep pace with the team’s learning progress.
 - Master the setup and configuration of AWS Transit Gateway.
 - Deepen understanding of Amazon EC2 and its related features.
+- Learn Redux for state management in large React applications.
+- Implement Redux Thunk for handling asynchronous actions in Redux.
 
 ### Tasks to be carried out this week
 
@@ -22,6 +24,13 @@ pre: "<b>1.4. </b>"
 | 2 | - Deepen knowledge of Amazon EC2 through Module 3 lectures (features, configurations, and applications). | 01/10/2025 | 02/10/2025 | [REFER HERE](https://youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i&si=NtlkPHvTydrkH4rK) |
 | 3 | - Learn and practice basic Git commands (commit, push, pull) for effective team collaboration. | 03/10/2025 | 04/10/2025 | [REFER HERE](https://www.youtube.com/watch?v=8O14qT3jdq0&list=PLodO7Gi1F7R0t9SyEZF5mwfKevCULLjgG&index=2) |
 | 4 | - Propose ideas and assign tasks to team members to prepare for the project proposal. | 05/10/2025 | 06/10/2025 | |
+| 5 | Study Redux and its core principles (store, actions, reducers). | 29/09/2025 | 29/09/2025 | [Redux Docs](https://redux.js.org/) |
+| 6 | Set up Redux in your React app. | 30/09/2025 | 30/09/2025 | [Redux Setup](https://redux.js.org/introduction/getting-started) |
+| 7 | Learn how to handle asynchronous actions in Redux using Redux Thunk. | 01/10/2025 | 01/10/2025 | [Redux Thunk](https://redux.js.org/usage/writing-logic-thunks) |
+| 8 | Integrate Redux and Redux Thunk into your React app for state management and API calls. | 02/10/2025 | 02/10/2025 | - |
+| 9 | Study and implement Redux DevTools to debug Redux state. | 03/10/2025 | 03/10/2025 | [Redux DevTools](https://github.com/reduxjs/redux-devtools) |
+| 10 | Apply Redux to manage the state of a more complex React app (e.g., managing a list of users). | 04/10/2025 | 04/10/2025 | - |
+| 11 | Optimize your state management using Redux for better performance. | 05/10/2025 | 05/10/2025 | - |
 
 ### Week 4 Achievements
 
@@ -36,3 +45,6 @@ pre: "<b>1.4. </b>"
 - Understood AWS Application Migration Service (MGN) for migrating on-premise servers to AWS.
 - Became proficient in basic Git commands (commit, push, pull) and team collaboration workflows using Git.
 - Successfully proposed ideas and assigned tasks for the project proposal, preparing the team for implementation.
+- Successfully implemented Redux for complex state management in React.
+- Integrated Redux Thunk for asynchronous actions and API calls.
+- Used Redux DevTools for state debugging.

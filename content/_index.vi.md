@@ -7,11 +7,11 @@ chapter: false
 
 # Báo cáo thực tập
 ### Thông tin sinh viên:
-&emsp; **Họ và tên:** Châu Gia Kiệt
+&emsp; **Họ và tên:** Trần Duy Khang
 
-&emsp; **Số điện thoại:** 0836769459
+&emsp; **Số điện thoại:** 0903898575
 
-&emsp; **Email:** kietcgse180513@fpt.edu.vn
+&emsp; **Email:** khangtdse184903@fpt.edu.vn
 
 &emsp; **Trường:** Đại học FPT TP.HCM – FPTU
 
@@ -25,7 +25,7 @@ chapter: false
 
 &emsp; **Thời gian thực tập:** Từ ngày 12/08/2025 đến ngày 12/11/2025
 
-![Châu Gia Kiệt - Ảnh đại diện](/images/Avatar.jpg)
+![Châu Gia Kiệt - Ảnh đại diện](/images/Avatar.png)
 
 
 

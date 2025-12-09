@@ -12,6 +12,8 @@ pre: " <b> 1.12. </b> "
 * **Nâng cấp kiến trúc xử lý ảnh** bằng cách tích hợp **SQS** để phân luồng và xử lý bất đồng bộ.
 * **Hoàn thành các tính năng thiết yếu cuối cùng** của dự án: Bảo mật, Ghim Map, và SNS.
 * **Hoàn thiện các giao diện chính** của Frontend, chuẩn bị mua tên miền và **tham gia sự kiện AWS Cloud Mastery Series cuối cùng**.
+* Hoàn thiện dự án với việc sửa lỗi và cải thiện UI/UX.
+* Chuẩn bị bài thuyết trình dự án để trình bày công việc, bao gồm cả AWS và công nghệ frontend.
 
 ---
 
@@ -19,11 +21,18 @@ pre: " <b> 1.12. </b> "
 
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | :--- | :--- | :--- | :--- | :--- |
-| 2 | - **Hoàn thiện chức năng Update và AI:** Khắc phục triệt để các lỗi cuối cùng (Sub ID, Rekognition) để chức năng CRUD và xử lý ảnh hoạt động trọn vẹn. | 25/11/2025 | 25/11/2025 | Hướng dẫn Mentor, Codebase Backend |
-| 3 | - **Nâng cấp luồng AI với SQS:** Triển khai **AWS SQS** để tạo hàng đợi xử lý ảnh bất đồng bộ, giúp phân luồng và cải thiện hiệu suất khi lượng ảnh tải lên lớn. <br> - **Tạo luồng xử lý rõ ràng:** Định nghĩa lại luồng đi của dữ liệu (Upload -> S3 -> SQS -> Lambda (AI) -> DynamoDB). | 26/11/2025 | 26/11/2025 | Tài liệu AWS SQS, Kiến trúc Lambda |
-| 4 | - **Frontend hoàn thiện giao diện:** Hoàn tất các giao diện cho các trang chính (Homepage, Chi tiết bài viết, Trang quản lý cá nhân). <br> - **Triển khai Ghim Map:** Tích hợp chức năng Ghim Map (Map Pinning) cho các bài viết, sử dụng dữ liệu định vị (geo data) trong DynamoDB hoặc một dịch vụ map phù hợp. | 27/11/2025 | 27/11/2025 | Codebase Frontend, DynamoDB Geo |
-| 5 | - **Hoàn thiện Bảo mật (Authorization):** Tối ưu hóa việc xác thực và phân quyền (IAM Policy/Cognito), đặc biệt là việc lấy `Sub` chính xác cho các thao tác của người dùng. <br> - **Triển khai SNS:** Tích hợp **AWS SNS** cho các tính năng thông báo cơ bản (ví dụ: thông báo khi bài viết được xử lý xong/tải lên thành công). | 28/11/2025 | 28/11/2025 | Tài liệu AWS SNS, Cognito/IAM |
-| 6 | - **Tham gia sự kiện AWS Cloud Mastery Series cuối cùng:** Nhận hướng dẫn tổng thể về dự án, kiểm tra và hoàn thiện các phần còn thiếu (tên miền, bảo mật, SNS) trước khi demo. <br> - **Tên miền:** Tiến hành nghiên cứu và chuẩn bị mua tên miền cho trang web, cấu hình DNS cơ bản (Route 53) nếu cần thiết (dựa trên hướng dẫn mentor). | 29/11/2025 | 29/11/2025 | Mentor, AWS Cloud Mastery Series, Route 53 |
+| 1 | - **Hoàn thiện chức năng Update và AI:** Khắc phục triệt để các lỗi cuối cùng (Sub ID, Rekognition) để chức năng CRUD và xử lý ảnh hoạt động trọn vẹn. | 25/11/2025 | 25/11/2025 | Hướng dẫn Mentor, Codebase Backend |
+| 2 | - **Nâng cấp luồng AI với SQS:** Triển khai **AWS SQS** để tạo hàng đợi xử lý ảnh bất đồng bộ, giúp phân luồng và cải thiện hiệu suất khi lượng ảnh tải lên lớn. <br> - **Tạo luồng xử lý rõ ràng:** Định nghĩa lại luồng đi của dữ liệu (Upload -> S3 -> SQS -> Lambda (AI) -> DynamoDB). | 26/11/2025 | 26/11/2025 | Tài liệu AWS SQS, Kiến trúc Lambda |
+| 3 | - **Frontend hoàn thiện giao diện:** Hoàn tất các giao diện cho các trang chính (Homepage, Chi tiết bài viết, Trang quản lý cá nhân). <br> - **Triển khai Ghim Map:** Tích hợp chức năng Ghim Map (Map Pinning) cho các bài viết, sử dụng dữ liệu định vị (geo data) trong DynamoDB hoặc một dịch vụ map phù hợp. | 27/11/2025 | 27/11/2025 | Codebase Frontend, DynamoDB Geo |
+| 4 | - **Hoàn thiện Bảo mật (Authorization):** Tối ưu hóa việc xác thực và phân quyền (IAM Policy/Cognito), đặc biệt là việc lấy `Sub` chính xác cho các thao tác của người dùng. <br> - **Triển khai SNS:** Tích hợp **AWS SNS** cho các tính năng thông báo cơ bản (ví dụ: thông báo khi bài viết được xử lý xong/tải lên thành công). | 28/11/2025 | 28/11/2025 | Tài liệu AWS SNS, Cognito/IAM |
+| 5 | - **Tham gia sự kiện AWS Cloud Mastery Series cuối cùng:** Nhận hướng dẫn tổng thể về dự án, kiểm tra và hoàn thiện các phần còn thiếu (tên miền, bảo mật, SNS) trước khi demo. <br> - **Tên miền:** Tiến hành nghiên cứu và chuẩn bị mua tên miền cho trang web, cấu hình DNS cơ bản (Route 53) nếu cần thiết (dựa trên hướng dẫn mentor). | 29/11/2025 | 29/11/2025 | Mentor, AWS Cloud Mastery Series, Route 53 |
+| 7 | Rà soát toàn bộ dự án và sửa các lỗi trong ứng dụng. | 21/02/2026 | 21/02/2026 | - |
+| 8 | Tối ưu thiết kế UI/UX dựa trên phản hồi và kiểm thử. | 22/02/2026 | 22/02/2026 | - |
+| 9 | Chuẩn bị bài thuyết trình dự án bao gồm cả frontend và tích hợp AWS. | 23/02/2026 | 23/02/2026 | - |
+| 10 | Tạo báo cáo kỹ thuật mô tả kiến trúc, công nghệ và quy trình đã sử dụng. | 24/02/2026 | 24/02/2026 | - |
+| 11 | Thực hiện demo dự án cuối cùng. | 25/02/2026 | 25/02/2026 | - |
+| 12 | Thực hiện các điều chỉnh cuối cùng cho ứng dụng dựa trên phản hồi từ demo. | 26/02/2026 | 26/02/2026 | - |
+| 13 | Nộp dự án cuối cùng và tài liệu. | 27/02/2026 | 27/02/2026 | - |
 
 ---
 
@@ -36,3 +45,5 @@ pre: " <b> 1.12. </b> "
 * **Tham gia thành công sự kiện AWS Cloud Mastery Series cuối cùng**, nhận được hướng dẫn tổng thể để hoàn thiện dự án.
 * **Đã nghiên cứu và lên kế hoạch mua tên miền** cho sản phẩm.
 * Dự án đã đạt đến trạng thái **Sẵn sàng trình bày (Demo Readiness)**.
+* Hoàn thành dự án với tất cả tích hợp frontend và AWS.
+* Triển khai thành công ứng dụng, sửa lỗi, tối ưu UI/UX, và trình bày dự án cuối cùng.

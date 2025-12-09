@@ -11,6 +11,8 @@ pre: "<b>1.4. </b>"
 - Theo kịp tiến độ học tập của nhóm.
 - Nắm vững cách thiết lập và cấu hình AWS Transit Gateway.
 - Tìm hiểu sâu hơn về dịch vụ Amazon EC2 và các tính năng liên quan.
+- Học Redux để quản lý state cho ứng dụng React lớn.
+- Triển khai Redux Thunk để xử lý bất đồng bộ trong Redux.
 
 ## Các công việc cần triển khai trong tuần này
 
@@ -20,6 +22,13 @@ pre: "<b>1.4. </b>"
 | 2 | - Tìm hiểu sâu về Amazon EC2 qua các bài giảng module 3 (tính năng, cấu hình, và ứng dụng). | 01/10/2025 | 02/10/2025 | [Tham khảo tại đây](https://youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i&si=NtlkPHvTydrkH4rK) |
 | 3 | - Học và thực hành các lệnh Git cơ bản (commit, push, pull) để làm việc nhóm hiệu quả. | 03/10/2025 | 04/10/2025 | [Tham khảo tại đây](https://www.youtube.com/watch?v=8O14qT3jdq0&list=PLodO7Gi1F7R0t9SyEZF5mwfKevCULLjgG&index=2) |
 | 4 | - Đề xuất ý tưởng và phân công nhiệm vụ cho nhóm để chuẩn bị thực hiện Proposal. | 05/10/2025 | 06/10/2025 | |
+| 5 | Học Redux và các nguyên lý cốt lõi (store, actions, reducers). | 29/09/2025 | 29/09/2025 | [Redux Docs](https://redux.js.org/) |
+| 6 | Thiết lập Redux trong ứng dụng React. | 30/09/2025 | 30/09/2025 | [Redux Setup](https://redux.js.org/introduction/getting-started) |
+| 7 | Học cách xử lý tác vụ bất đồng bộ trong Redux với Redux Thunk. | 01/10/2025 | 01/10/2025 | [Redux Thunk](https://redux.js.org/usage/writing-logic-thunks) |
+| 8 | Tích hợp Redux và Redux Thunk vào ứng dụng React để quản lý state và gọi API. | 02/10/2025 | 02/10/2025 | - |
+| 9 | Tìm hiểu và áp dụng Redux DevTools để debug state Redux. | 03/10/2025 | 03/10/2025 | [Redux DevTools](https://github.com/reduxjs/redux-devtools) |
+| 10 | Áp dụng Redux để quản lý state cho ứng dụng React phức tạp hơn (ví dụ: quản lý danh sách người dùng). | 04/10/2025 | 04/10/2025 | - |
+| 11 | Tối ưu quản lý state bằng Redux để cải thiện hiệu năng. | 05/10/2025 | 05/10/2025 | - |
 
 ## Kết quả đạt được tuần 4
 
@@ -34,3 +43,6 @@ pre: "<b>1.4. </b>"
 - Hiểu về AWS Application Migration Service (MGN) để di chuyển máy chủ on-premise lên AWS.
 - Thành thạo các lệnh Git cơ bản (commit, push, pull) và quy trình làm việc nhóm với Git.
 - Hoàn thành phân công nhiệm vụ và đề xuất ý tưởng cho Proposal, sẵn sàng triển khai trong nhóm.
+- Triển khai thành công Redux cho quản lý state phức tạp trong React.
+- Tích hợp Redux Thunk để xử lý hành động bất đồng bộ và gọi API.
+- Sử dụng Redux DevTools để debug state.
