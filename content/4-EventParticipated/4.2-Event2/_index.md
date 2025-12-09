@@ -6,10 +6,6 @@ chapter: false
 pre: " <b> 4.2. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Note:** The information below is for reference purposes only. Please **do not copy verbatim** for your report, including this warning.
-{{% /notice %}}
-
 # Post-Event Report: “DX<inAction> Talk#7: Reinventing DevSecOps with AWS Generative AI”
 
 ### Event Objectives

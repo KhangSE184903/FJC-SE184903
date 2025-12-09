@@ -17,12 +17,12 @@ pre: "<b>1.6. </b>"
 
 ## Các công việc cần triển khai trong tuần này
 
-| Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
+| STT | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 |-----|----------|--------------|-----------------|----------------|
-| 2 | - Tìm hiểu về Amazon S3: khái niệm Bucket, độ bền, và cách host Static Website.<br>- Tìm hiểu S3 Storage Class (S3 Standard, S3 Standard-IA) và Glacier (lưu trữ lạnh). | 14/10/2025 | 15/10/2025 | [Tham khảo tại đây](https://aws.amazon.com/s3/) |
-| 3 | - Tìm hiểu AWS Storage Gateway (File, Volume, Tape Gateway).<br>- Nắm khái niệm Object Life Cycle Management.<br>- Tiếp tục học Python cơ bản.<br>- Tham gia webinar "Reinventing DevSecOps with AWS Generative AI" (có sự góp mặt của anh Hoàng Kha). | 16/10/2025 | 17/10/2025 | [Tham khảo tại đây](https://aws.amazon.com/storagegateway/) <br> [Webinar DevSecOps](https://aws.amazon.com/events/) |
-| 4 | - Tìm hiểu Disaster Recovery: khái niệm RTO, RPO, chiến lược Backup & Restore.<br>- Tìm hiểu AWS Backup.<br>- Thực hành tạo S3 Bucket, upload file, và cấu hình Static Website.<br>- Khám phá vai trò DevSecOps và các công cụ phổ biến (CI/CD, SAST, DAST, IaC như Terraform). | 18/10/2025 | 19/10/2025 | [Tham khảo tại đây](https://aws.amazon.com/backup/) |
-| 5 | - Chỉnh sửa và cập nhật sơ đồ kiến trúc hạ tầng dự án.<br>- Tái cấu trúc sườn code (code skeleton) dựa trên kiến trúc mới.<br>- Thống nhất ngôn ngữ lập trình và framework cho dự án.<br>- Khám phá Gen AI là Amazon Q Developer (trợ lý AI cho phát triển phần mềm). | 20/10/2025 | 21/10/2025 | [Amazon Q Developer](https://aws.amazon.com/q/developer/) |
+| 1 | - Tìm hiểu về Amazon S3: khái niệm Bucket, độ bền, và cách host Static Website.<br>- Tìm hiểu S3 Storage Class (S3 Standard, S3 Standard-IA) và Glacier (lưu trữ lạnh). | 14/10/2025 | 15/10/2025 | [Tham khảo tại đây](https://aws.amazon.com/s3/) |
+| 2 | - Tìm hiểu AWS Storage Gateway (File, Volume, Tape Gateway).<br>- Nắm khái niệm Object Life Cycle Management.<br>- Tiếp tục học Python cơ bản.<br>- Tham gia webinar "Reinventing DevSecOps with AWS Generative AI" (có sự góp mặt của anh Hoàng Kha). | 16/10/2025 | 17/10/2025 | [Tham khảo tại đây](https://aws.amazon.com/storagegateway/) <br> [Webinar DevSecOps](https://aws.amazon.com/events/) |
+| 3 | - Tìm hiểu Disaster Recovery: khái niệm RTO, RPO, chiến lược Backup & Restore.<br>- Tìm hiểu AWS Backup.<br>- Thực hành tạo S3 Bucket, upload file, và cấu hình Static Website.<br>- Khám phá vai trò DevSecOps và các công cụ phổ biến (CI/CD, SAST, DAST, IaC như Terraform). | 18/10/2025 | 19/10/2025 | [Tham khảo tại đây](https://aws.amazon.com/backup/) |
+| 4 | - Chỉnh sửa và cập nhật sơ đồ kiến trúc hạ tầng dự án.<br>- Tái cấu trúc sườn code (code skeleton) dựa trên kiến trúc mới.<br>- Thống nhất ngôn ngữ lập trình và framework cho dự án.<br>- Khám phá Gen AI là Amazon Q Developer (trợ lý AI cho phát triển phần mềm). | 20/10/2025 | 21/10/2025 | [Amazon Q Developer](https://aws.amazon.com/q/developer/) |
 
 ## Kết quả đạt được tuần 6
 

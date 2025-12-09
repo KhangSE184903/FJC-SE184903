@@ -6,9 +6,7 @@ chapter: false
 pre: " <b> 1.2. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ Lưu ý: Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng không sao chép nguyên văn cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
+
 
 ## Mục tiêu tuần 2
 
@@ -18,12 +16,12 @@ pre: " <b> 1.2. </b> "
 
 ## Các công việc cần triển khai trong tuần này
 
-| Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
+| STT | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 |-----|-----------|--------------|-----------------|----------------|
-| 2 | - Học hỏi thêm kiến thức về VPC và các dịch vụ, tài nguyên trong VPC.<br>- Tìm hiểu cách xây dựng kiến trúc trong AWS.<br>- Tìm hiểu các khái niệm từ bài giảng của Mentor Gia Hung. | 15/09/2025 | 16/09/2025 | |
-| 3 | - Tạo các tài nguyên trong VPC để chuẩn bị cho việc khởi tạo EC2.<br>- Khởi tạo EC2 từ các tài nguyên đã chuẩn bị.<br>- Học thêm về Security Group và Network ACLs. | 16/09/2025 | 17/09/2025 | Tham khảo tại đây |
-| 4 | - Xử lý lỗi xác thực tài khoản và gửi giấy tờ xác thực. | 17/09/2025 | 20/09/2025 | Tham khảo tại đây |
-| 5 | - Tham gia sự kiện Cloud Day.<br>- Học hỏi thêm về AI và Data thông qua sự kiện.<br>- Gặp gỡ và giao lưu với các mentor tiêu biểu. | 18/09/2025 | 18/09/2025 | |
+| 1 | - Học hỏi thêm kiến thức về VPC và các dịch vụ, tài nguyên trong VPC.<br>- Tìm hiểu cách xây dựng kiến trúc trong AWS.<br>- Tìm hiểu các khái niệm từ bài giảng của Mentor Gia Hung. | 15/09/2025 | 16/09/2025 | |
+| 2 | - Tạo các tài nguyên trong VPC để chuẩn bị cho việc khởi tạo EC2.<br>- Khởi tạo EC2 từ các tài nguyên đã chuẩn bị.<br>- Học thêm về Security Group và Network ACLs. | 16/09/2025 | 17/09/2025 | Tham khảo tại đây |
+| 3 | - Xử lý lỗi xác thực tài khoản và gửi giấy tờ xác thực. | 17/09/2025 | 20/09/2025 | Tham khảo tại đây |
+| 4 | - Tham gia sự kiện Cloud Day.<br>- Học hỏi thêm về AI và Data thông qua sự kiện.<br>- Gặp gỡ và giao lưu với các mentor tiêu biểu. | 18/09/2025 | 18/09/2025 | |
 
 ## Kết quả đạt được tuần 2
 

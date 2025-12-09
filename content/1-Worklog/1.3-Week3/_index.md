@@ -6,9 +6,7 @@ chapter: false
 pre: "<b>1.3. </b>"
 ---
 
-{{% notice warning %}}
-⚠️ **Note:** The following information is for reference purposes only. Please **do not copy verbatim** for your own report, including this warning.
-{{% /notice %}}
+
 
 ### Week 3 Objectives
 
@@ -21,10 +19,10 @@ pre: "<b>1.3. </b>"
 
 | Day | Task | Start Date | Completion Date | Reference Material |
 |-----|------|------------|-----------------|---------------------|
-| 2 | - Create a new Visa card and set up a new AWS account with initial configurations. | 21/09/2025 | 23/09/2025 | [REFER HERE](https://aws.amazon.com/getting-started/) |
-| 3 | - Complete Lab 10 to learn about Route 53 and configure Hybrid DNS.<br>- Launch a virtual server to implement and test DNS setup. | 24/09/2025 | 25/09/2025 | [REFER HERE](https://youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i&si=NtlkPHvTydrkH4rK) |
-| 4 | - Set up VPC Peering to enable communication between VPCs in the same AWS Cloud.<br>- Create necessary resources for VPC Peering.<br>- Clean up resources after completion. | 25/09/2025 | 26/09/2025 | [REFER HERE](https://youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i&si=NtlkPHvTydrkH4rK) |
-| 5 | - Attend a team meeting to discuss project plans and programming language selection. | 28/09/2025 | 28/09/2025 | |
+| 1 | - Create a new Visa card and set up a new AWS account with initial configurations. | 21/09/2025 | 23/09/2025 | [REFER HERE](https://aws.amazon.com/getting-started/) |
+| 2 | - Complete Lab 10 to learn about Route 53 and configure Hybrid DNS.<br>- Launch a virtual server to implement and test DNS setup. | 24/09/2025 | 25/09/2025 | [REFER HERE](https://youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i&si=NtlkPHvTydrkH4rK) |
+| 3 | - Set up VPC Peering to enable communication between VPCs in the same AWS Cloud.<br>- Create necessary resources for VPC Peering.<br>- Clean up resources after completion. | 25/09/2025 | 26/09/2025 | [REFER HERE](https://youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i&si=NtlkPHvTydrkH4rK) |
+| 4 | - Attend a team meeting to discuss project plans and programming language selection. | 28/09/2025 | 28/09/2025 | |
 
 ### Week 3 Achievements
 

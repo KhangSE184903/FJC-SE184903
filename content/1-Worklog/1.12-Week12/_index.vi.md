@@ -1,12 +1,10 @@
 ---
 title: "Worklog Tuần 12"
-date: 2024-11-25
+date: 2025-11-25
 weight: 12
 chapter: false
 pre: " <b> 1.12. </b> "
 ---
-
-> ⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn.
 
 ### Mục tiêu tuần 12: 
 
@@ -21,11 +19,11 @@ pre: " <b> 1.12. </b> "
 
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | :--- | :--- | :--- | :--- | :--- |
-| 2 | - **Hoàn thiện chức năng Update và AI:** Khắc phục triệt để các lỗi cuối cùng (Sub ID, Rekognition) để chức năng CRUD và xử lý ảnh hoạt động trọn vẹn. | 25/11/2024 | 25/11/2024 | Hướng dẫn Mentor, Codebase Backend |
-| 3 | - **Nâng cấp luồng AI với SQS:** Triển khai **AWS SQS** để tạo hàng đợi xử lý ảnh bất đồng bộ, giúp phân luồng và cải thiện hiệu suất khi lượng ảnh tải lên lớn. <br> - **Tạo luồng xử lý rõ ràng:** Định nghĩa lại luồng đi của dữ liệu (Upload -> S3 -> SQS -> Lambda (AI) -> DynamoDB). | 26/11/2024 | 26/11/2024 | Tài liệu AWS SQS, Kiến trúc Lambda |
-| 4 | - **Frontend hoàn thiện giao diện:** Hoàn tất các giao diện cho các trang chính (Homepage, Chi tiết bài viết, Trang quản lý cá nhân). <br> - **Triển khai Ghim Map:** Tích hợp chức năng Ghim Map (Map Pinning) cho các bài viết, sử dụng dữ liệu định vị (geo data) trong DynamoDB hoặc một dịch vụ map phù hợp. | 27/11/2024 | 27/11/2024 | Codebase Frontend, DynamoDB Geo |
-| 5 | - **Hoàn thiện Bảo mật (Authorization):** Tối ưu hóa việc xác thực và phân quyền (IAM Policy/Cognito), đặc biệt là việc lấy `Sub` chính xác cho các thao tác của người dùng. <br> - **Triển khai SNS:** Tích hợp **AWS SNS** cho các tính năng thông báo cơ bản (ví dụ: thông báo khi bài viết được xử lý xong/tải lên thành công). | 28/11/2024 | 28/11/2024 | Tài liệu AWS SNS, Cognito/IAM |
-| 6 | - **Tham gia sự kiện AWS Cloud Mastery Series cuối cùng:** Nhận hướng dẫn tổng thể về dự án, kiểm tra và hoàn thiện các phần còn thiếu (tên miền, bảo mật, SNS) trước khi demo. <br> - **Tên miền:** Tiến hành nghiên cứu và chuẩn bị mua tên miền cho trang web, cấu hình DNS cơ bản (Route 53) nếu cần thiết (dựa trên hướng dẫn mentor). | 29/11/2024 | 29/11/2024 | Mentor, AWS Cloud Mastery Series, Route 53 |
+| 2 | - **Hoàn thiện chức năng Update và AI:** Khắc phục triệt để các lỗi cuối cùng (Sub ID, Rekognition) để chức năng CRUD và xử lý ảnh hoạt động trọn vẹn. | 25/11/2025 | 25/11/2025 | Hướng dẫn Mentor, Codebase Backend |
+| 3 | - **Nâng cấp luồng AI với SQS:** Triển khai **AWS SQS** để tạo hàng đợi xử lý ảnh bất đồng bộ, giúp phân luồng và cải thiện hiệu suất khi lượng ảnh tải lên lớn. <br> - **Tạo luồng xử lý rõ ràng:** Định nghĩa lại luồng đi của dữ liệu (Upload -> S3 -> SQS -> Lambda (AI) -> DynamoDB). | 26/11/2025 | 26/11/2025 | Tài liệu AWS SQS, Kiến trúc Lambda |
+| 4 | - **Frontend hoàn thiện giao diện:** Hoàn tất các giao diện cho các trang chính (Homepage, Chi tiết bài viết, Trang quản lý cá nhân). <br> - **Triển khai Ghim Map:** Tích hợp chức năng Ghim Map (Map Pinning) cho các bài viết, sử dụng dữ liệu định vị (geo data) trong DynamoDB hoặc một dịch vụ map phù hợp. | 27/11/2025 | 27/11/2025 | Codebase Frontend, DynamoDB Geo |
+| 5 | - **Hoàn thiện Bảo mật (Authorization):** Tối ưu hóa việc xác thực và phân quyền (IAM Policy/Cognito), đặc biệt là việc lấy `Sub` chính xác cho các thao tác của người dùng. <br> - **Triển khai SNS:** Tích hợp **AWS SNS** cho các tính năng thông báo cơ bản (ví dụ: thông báo khi bài viết được xử lý xong/tải lên thành công). | 28/11/2025 | 28/11/2025 | Tài liệu AWS SNS, Cognito/IAM |
+| 6 | - **Tham gia sự kiện AWS Cloud Mastery Series cuối cùng:** Nhận hướng dẫn tổng thể về dự án, kiểm tra và hoàn thiện các phần còn thiếu (tên miền, bảo mật, SNS) trước khi demo. <br> - **Tên miền:** Tiến hành nghiên cứu và chuẩn bị mua tên miền cho trang web, cấu hình DNS cơ bản (Route 53) nếu cần thiết (dựa trên hướng dẫn mentor). | 29/11/2025 | 29/11/2025 | Mentor, AWS Cloud Mastery Series, Route 53 |
 
 ---
 

@@ -1,12 +1,11 @@
 ---
 title: "Worklog Tuần 10"
-date: 2024-11-11
+date: 2025-11-11
 weight: 10
 chapter: false
 pre: " <b> 1.10. </b> "
 ---
 
-> ⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn.
 
 ### Mục tiêu tuần 10: 
 
@@ -22,11 +21,11 @@ pre: " <b> 1.10. </b> "
 
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | :--- | :--- | :--- | :--- | :--- |
-| 2 | - **Gỡ lỗi CORS:** Phân tích cấu hình CORS trong **API Gateway** và các headers phản hồi của **Lambda** để cho phép Frontend truy cập. <br> - **Khắc phục lỗi template loop:** Kiểm tra và tối ưu hóa file `template.yaml` để tránh lỗi vòng lặp khi triển khai (`sam deploy`). | 11/11/2024 | 11/11/2024 | Tài liệu API Gateway/CORS |
-| 3 | - Tiếp tục củng cố chức năng **Read** (Hiển thị bài viết): Đảm bảo dữ liệu từ DynamoDB được truy vấn và trả về đúng định dạng JSON cho Frontend. | 12/11/2024 | 12/11/2024 | |
-| 4 | - **Tích hợp Frontend:** Bắt đầu kết hợp mã nguồn Frontend vào dự án và kiểm thử các API Endpoint đã deploy. <br> - **Thành công hiển thị** danh sách bài viết trên giao diện. | 13/11/2024 | 13/11/2024 | Giao diện Frontend mẫu |
-| 5 | - Triển khai và kiểm thử chức năng **Delete** (Xóa bài viết). <br> - **Gặp lỗi:** Phát hiện vấn đề về **xác thực (Authorization)** và **Sub ID** khi thực hiện chức năng Delete. | 14/11/2024 | 14/11/2024 | |
-| 6 | - **Tham gia sự kiện AWS Cloud Mastery Series:** <br>&emsp; + Nhận hướng dẫn và giải đáp các thắc mắc về Serverless, Rekognition. <br> - Phân tích lỗi **Update/Rekognition:** Bắt đầu áp dụng hướng dẫn từ Mentor để giải quyết vấn đề xác thực và lỗi liên quan đến Rekognition. | 15/11/2024 | 15/11/2024 | Mentor, AWS Cloud Mastery Series |
+| 2 | - **Gỡ lỗi CORS:** Phân tích cấu hình CORS trong **API Gateway** và các headers phản hồi của **Lambda** để cho phép Frontend truy cập. <br> - **Khắc phục lỗi template loop:** Kiểm tra và tối ưu hóa file `template.yaml` để tránh lỗi vòng lặp khi triển khai (`sam deploy`). | 11/11/2025 | 11/11/2025 | Tài liệu API Gateway/CORS |
+| 3 | - Tiếp tục củng cố chức năng **Read** (Hiển thị bài viết): Đảm bảo dữ liệu từ DynamoDB được truy vấn và trả về đúng định dạng JSON cho Frontend. | 12/11/2025 | 12/11/2025 | |
+| 4 | - **Tích hợp Frontend:** Bắt đầu kết hợp mã nguồn Frontend vào dự án và kiểm thử các API Endpoint đã deploy. <br> - **Thành công hiển thị** danh sách bài viết trên giao diện. | 13/11/2025 | 13/11/2025 | Giao diện Frontend mẫu |
+| 5 | - Triển khai và kiểm thử chức năng **Delete** (Xóa bài viết). <br> - **Gặp lỗi:** Phát hiện vấn đề về **xác thực (Authorization)** và **Sub ID** khi thực hiện chức năng Delete. | 14/11/2025 | 14/11/2025 | |
+| 6 | - **Tham gia sự kiện AWS Cloud Mastery Series:** <br>&emsp; + Nhận hướng dẫn và giải đáp các thắc mắc về Serverless, Rekognition. <br> - Phân tích lỗi **Update/Rekognition:** Bắt đầu áp dụng hướng dẫn từ Mentor để giải quyết vấn đề xác thực và lỗi liên quan đến Rekognition. | 15/11/2025 | 15/11/2025 | Mentor, AWS Cloud Mastery Series |
 
 ---
 

@@ -6,7 +6,6 @@ chapter: false
 pre: " <b> 4.6. </b> "
 ---
 
-> ⚠️ Note: The information below is for reference purposes only. Please do not copy verbatim for your report.
 
 # Post-Event Report — Vietnam Cloud Day HCMC Connect Edition
 

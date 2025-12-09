@@ -6,9 +6,7 @@ chapter: false
 pre: "<b>1.2. </b>"
 ---
 
-{{% notice warning %}}
-⚠️ **Note:** The following information is for reference purposes only. Please **do not copy verbatim** for your own report, including this warning.
-{{% /notice %}}
+
 
 ### Week 2 Objectives
 
@@ -20,10 +18,10 @@ pre: "<b>1.2. </b>"
 
 | Day | Task | Start Date | Completion Date | Reference Material |
 |-----|------|------------|-----------------|---------------------|
-| 2 | - Deepen understanding of VPC and its services/resources.<br>- Study AWS architecture design principles.<br>- Review concepts from Mentor Gia Hung's lectures. | 15/09/2025 | 16/09/2025 | [REFER HERE](https://cloudjourney.awsstudygroup.com/) |
-| 3 | - Create resources within a VPC to prepare for EC2 instance creation.<br>- Launch an EC2 instance using prepared resources.<br>- Learn about Security Groups and Network ACLs. | 16/09/2025 | 17/09/2025 | [REFER HERE](https://docs.aws.amazon.com/ec2/) |
-| 4 | - Resolve AWS account authentication issues and submit required verification documents. | 17/09/2025 | 20/09/2025 | [REFER HERE](https://aws.amazon.com/support/) |
-| 5 | - Attend the Cloud Day event.<br>- Gain insights into AI and Data through the event.<br>- Network with prominent mentors. | 18/09/2025 | 18/09/2025 | |
+| 1 | - Deepen understanding of VPC and its services/resources.<br>- Study AWS architecture design principles.<br>- Review concepts from Mentor Gia Hung's lectures. | 15/09/2025 | 16/09/2025 | [REFER HERE](https://cloudjourney.awsstudygroup.com/) |
+| 2 | - Create resources within a VPC to prepare for EC2 instance creation.<br>- Launch an EC2 instance using prepared resources.<br>- Learn about Security Groups and Network ACLs. | 16/09/2025 | 17/09/2025 | [REFER HERE](https://docs.aws.amazon.com/ec2/) |
+| 3 | - Resolve AWS account authentication issues and submit required verification documents. | 17/09/2025 | 20/09/2025 | [REFER HERE](https://aws.amazon.com/support/) |
+| 4 | - Attend the Cloud Day event.<br>- Gain insights into AI and Data through the event.<br>- Network with prominent mentors. | 18/09/2025 | 18/09/2025 | |
 
 ### Week 2 Achievements
 

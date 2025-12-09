@@ -5,9 +5,6 @@ weight: 1
 chapter: false
 pre: " <b> 1. </b> "
 ---
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
 
 Trang này ghi lại toàn bộ **Nhật ký công việc (Worklog)** được thực hiện trong suốt chương trình thực tập **First Cloud Journey (FCJ)**. Đây là tài liệu chi tiết hóa quá trình học tập, triển khai dự án **Travel-Guided**, khắc phục lỗi hệ thống và tham gia các sự kiện chuyên môn trong vòng **12 tuần** (khoảng 3 tháng).
 

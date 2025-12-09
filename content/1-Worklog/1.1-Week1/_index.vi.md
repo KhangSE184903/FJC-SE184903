@@ -5,9 +5,7 @@ weight: 1
 chapter: false
 pre: " <b> 1.1. </b> "
 ---
-{{% notice warning %}}
-⚠️ Lưu ý: Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng không sao chép nguyên văn cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
+
 
 ### Mục tiêu tuần 1:
 
@@ -16,12 +14,12 @@ pre: " <b> 1.1. </b> "
 
 ## Các công việc cần triển khai trong tuần này
 
-| Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
+| STT | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 |-----|-----------|--------------|-----------------|----------------|
-| 2 | - Tham gia buổi kick-off của FCJ<br>- Tìm hiểu về tổ chức<br>- Tạo nhóm cùng thực hiện các dự án | 06/09/2025 | 06/09/2025 | |
-| 3 | - Tạo tài khoản AWS<br>- Xem và vẽ lại kiến trúc mẫu trên phần mềm draw.io<br>- Tìm hiểu về điện toán đám mây | 09/09/2025 | 09/09/2025 | [cloudjourney.awsstudygroup.com](https://cloudjourney.awsstudygroup.com/) |
-| 4 | - Tìm hiểu về mục tiêu của chương trình The First Cloud Journey và website AWS<br>- Thực hiện các thao tác đầu trên tài khoản đã tạo:<br>&emsp;+ Tạo budget<br>&emsp;+ Tạo groups<br>&emsp;+ Thiết lập bảo mật hai lớp<br>- Tìm hiểu về Support Centre của website AWS, cách hoạt động và cách gửi yêu cầu hỗ trợ | 10/09/2025 | 10/09/2025 | [cloudjourney.awsstudygroup.com](https://cloudjourney.awsstudygroup.com/) |
-| 5 | - Tạo VPC<br>- Chỉnh cấu hình cho VPC<br>- Tạo Subnet<br>- Cấu hình Subnet public để tự động cấp phát IP công cộng<br>- Tạo Internet Gateway<br>- Cấu hình Internet Gateway để kết nối với VPC<br>- Tạo Route Table<br>- Cấu hình Route Table để kết nối với Internet Gateway<br>- Cấu hình Subnet Associations thành công<br>- Tạo Security Group (public)<br>- Tạo Security Group (private) | 11/09/2025 | 14/09/2025 | [cloudjourney.awsstudygroup.com](https://cloudjourney.awsstudygroup.com/) |
+| 1 | - Tham gia buổi kick-off của FCJ<br>- Tìm hiểu về tổ chức<br>- Tạo nhóm cùng thực hiện các dự án | 06/09/2025 | 06/09/2025 | |
+| 2 | - Tạo tài khoản AWS<br>- Xem và vẽ lại kiến trúc mẫu trên phần mềm draw.io<br>- Tìm hiểu về điện toán đám mây | 09/09/2025 | 09/09/2025 | [cloudjourney.awsstudygroup.com](https://cloudjourney.awsstudygroup.com/) |
+| 3 | - Tìm hiểu về mục tiêu của chương trình The First Cloud Journey và website AWS<br>- Thực hiện các thao tác đầu trên tài khoản đã tạo:<br>&emsp;+ Tạo budget<br>&emsp;+ Tạo groups<br>&emsp;+ Thiết lập bảo mật hai lớp<br>- Tìm hiểu về Support Centre của website AWS, cách hoạt động và cách gửi yêu cầu hỗ trợ | 10/09/2025 | 10/09/2025 | [cloudjourney.awsstudygroup.com](https://cloudjourney.awsstudygroup.com/) |
+| 4 | - Tạo VPC<br>- Chỉnh cấu hình cho VPC<br>- Tạo Subnet<br>- Cấu hình Subnet public để tự động cấp phát IP công cộng<br>- Tạo Internet Gateway<br>- Cấu hình Internet Gateway để kết nối với VPC<br>- Tạo Route Table<br>- Cấu hình Route Table để kết nối với Internet Gateway<br>- Cấu hình Subnet Associations thành công<br>- Tạo Security Group (public)<br>- Tạo Security Group (private) | 11/09/2025 | 14/09/2025 | [cloudjourney.awsstudygroup.com](https://cloudjourney.awsstudygroup.com/) |
 
 ## Kết quả đạt được tuần 1
 

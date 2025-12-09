@@ -6,7 +6,6 @@ chapter: false
 pre: " <b> 4.6. </b> "
 ---
 
-> ⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo; vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn.
 
 # Bài thu hoạch — Vietnam Cloud Day HCMC Connect Edition
 ## Mục Đích của Sự Kiện

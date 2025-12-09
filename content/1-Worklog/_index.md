@@ -5,9 +5,6 @@ weight: 1
 chapter: false
 pre: " <b> 1. </b> "
 ---
-{{% notice warning %}}
-⚠️ **Note:** The information below is for reference purposes only. Please **do not copy verbatim** for your report, including this warning.
-{{% /notice %}}
 
 This page documents the entire **Worklog** carried out throughout the **First Cloud Journey (FCJ)** internship program. This document details the process of learning, implementing the **Travel-Guided** project, troubleshooting system errors, and participating in specialized events over **12 weeks** (approximately 3 months).
 

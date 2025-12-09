@@ -6,7 +6,6 @@ chapter: false
 pre: "<b>1.5. </b>"
 ---
 
-> **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả lưu ý này.
 
 ## Mục tiêu tuần 5
 
@@ -17,12 +16,12 @@ pre: "<b>1.5. </b>"
 
 ## Các công việc cần triển khai trong tuần này
 
-| Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
+| STT | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 |-----|----------|--------------|-----------------|----------------|
-| 2 | - Phân tích và xác định nguyên nhân gây chi phí bất thường trên tài khoản AWS. | 07/10/2025 | 08/10/2025 | [Tham khảo tại đây](https://aws.amazon.com/aws-cost-management/aws-cost-explorer/) |
-| 3 | - Thiết kế và phân chia kiến trúc hạ tầng cho dự án.<br>- Đề xuất các mẫu kiến trúc cơ bản để nhóm tham khảo. | 09/10/2025 | 10/10/2025 | [Tham khảo tại đây](https://www.facebook.com/groups/awsstudygroupfcj) |
-| 4 | - Xây dựng sườn code (code skeleton) và cấu hình các file khởi tạo cho dự án. | 11/10/2025 | 13/10/2025 | |
-| 5 | - Tìm hiểu AWS Skill Builder và tạo tài khoản để học tập. | 11/10/2025 | 12/10/2025 | [Tham khảo tại đây](https://skillbuilder.aws/) |
+| 1 | - Phân tích và xác định nguyên nhân gây chi phí bất thường trên tài khoản AWS. | 07/10/2025 | 08/10/2025 | [Tham khảo tại đây](https://aws.amazon.com/aws-cost-management/aws-cost-explorer/) |
+| 2 | - Thiết kế và phân chia kiến trúc hạ tầng cho dự án.<br>- Đề xuất các mẫu kiến trúc cơ bản để nhóm tham khảo. | 09/10/2025 | 10/10/2025 | [Tham khảo tại đây](https://www.facebook.com/groups/awsstudygroupfcj) |
+| 3 | - Xây dựng sườn code (code skeleton) và cấu hình các file khởi tạo cho dự án. | 11/10/2025 | 13/10/2025 | |
+| 4 | - Tìm hiểu AWS Skill Builder và tạo tài khoản để học tập. | 11/10/2025 | 12/10/2025 | [Tham khảo tại đây](https://skillbuilder.aws/) |
 
 ## Kết quả đạt được tuần 5
 

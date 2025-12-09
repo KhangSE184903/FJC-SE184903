@@ -6,9 +6,7 @@ chapter: false
 pre: "<b>1.1. </b>"
 ---
 
-{{% notice warning %}}
-⚠️ **Note:** The following information is for reference purposes only. Please **do not copy verbatim** for your own report, including this warning.
-{{% /notice %}}
+
 
 ### Week 1 Objectives
 
@@ -19,10 +17,10 @@ pre: "<b>1.1. </b>"
 
 | Day | Task | Start Date | Completion Date | Reference Material |
 |-----|------|------------|-----------------|---------------------|
-| 2 | - Attend the FCJ kick-off session.<br>- Learn about the FCJ organization.<br>- Form a team for collaborative project work. | 06/09/2025 | 06/09/2025 | |
-| 3 | - Create an AWS account.<br>- Study cloud computing concepts.<br>- Draw a sample architecture using draw.io. | 09/09/2025 | 09/09/2025 | [REFER HERE](https://cloudjourney.awsstudygroup.com/) |
-| 4 | - Explore the objectives of the First Cloud Journey program and the AWS website.<br>- Perform initial setup on the AWS account:<br>&emsp;+ Create a budget.<br>&emsp;+ Create user groups.<br>&emsp;+ Enable two-factor authentication (2FA).<br>- Learn about the AWS Support Center and how to submit support requests. | 10/09/2025 | 10/09/2025 | [REFER HERE](https://cloudjourney.awsstudygroup.com/) |
-| 5 | - Create a VPC and configure its settings.<br>- Create and configure Subnets (including a public Subnet with auto-assigned public IPs).<br>- Set up an Internet Gateway and attach it to the VPC.<br>- Create and configure a Route Table, connecting it to the Internet Gateway.<br>- Configure Subnet Associations.<br>- Create Security Groups (public and private). | 11/09/2025 | 14/09/2025 | [REFER HERE](https://cloudjourney.awsstudygroup.com/) |
+| 1 | - Attend the FCJ kick-off session.<br>- Learn about the FCJ organization.<br>- Form a team for collaborative project work. | 06/09/2025 | 06/09/2025 | |
+| 2 | - Create an AWS account.<br>- Study cloud computing concepts.<br>- Draw a sample architecture using draw.io. | 09/09/2025 | 09/09/2025 | [REFER HERE](https://cloudjourney.awsstudygroup.com/) |
+| 3 | - Explore the objectives of the First Cloud Journey program and the AWS website.<br>- Perform initial setup on the AWS account:<br>&emsp;+ Create a budget.<br>&emsp;+ Create user groups.<br>&emsp;+ Enable two-factor authentication (2FA).<br>- Learn about the AWS Support Center and how to submit support requests. | 10/09/2025 | 10/09/2025 | [REFER HERE](https://cloudjourney.awsstudygroup.com/) |
+| 4 | - Create a VPC and configure its settings.<br>- Create and configure Subnets (including a public Subnet with auto-assigned public IPs).<br>- Set up an Internet Gateway and attach it to the VPC.<br>- Create and configure a Route Table, connecting it to the Internet Gateway.<br>- Configure Subnet Associations.<br>- Create Security Groups (public and private). | 11/09/2025 | 14/09/2025 | [REFER HERE](https://cloudjourney.awsstudygroup.com/) |
 
 ### Week 1 Achievements
 

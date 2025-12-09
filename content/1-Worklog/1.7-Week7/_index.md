@@ -1,12 +1,12 @@
 ---
 title: "Week 7 Worklog"
-date: 2024-10-21
+date: 2025-10-21
 weight: 7
 chapter: false
 pre: " <b> 1.7. </b> "
 ---
 
-> ⚠️ **Note:** The information below is for reference purposes only. Please **do not copy verbatim** for your report, including this warning.
+
 
 ### Week 7 Objectives: 
 
@@ -20,11 +20,11 @@ pre: " <b> 1.7. </b> "
 
 | Day | Task | Start Date | Completion Date | Resources |
 | :--- | :--- | :--- | :--- | :--- |
-| Monday | - Systematize knowledge of **Compute services** (EC2, Lambda). <br> - **Hands-on:** Complete exercises/labs on creating, configuring, and managing the lifecycle of an **EC2 Instance**. | 22/10/2024 | 22/10/2024 | AWS Builders, AWSboy |
-| Tuesday | - Review knowledge of **Storage services** (S3, EBS, EFS). <br> - **Hands-on:** Complete exercises on S3 storage classes (Standard, IA, Glacier) and EBS options. | 23/10/2024 | 23/10/2024 | AWS Builders, AWSboy |
-| Wednesday | - Consolidate knowledge of **Networking** (VPC, Subnets, Route Tables, Internet Gateway, Security Groups). <br> - **Hands-on:** Practice questions on basic VPC configuration, and the rules of Security Groups and NACLs. | 24/10/2024 | 24/10/2024 | AWS Builders, AWSboy |
-| Thursday | - Review **Database** (RDS, DynamoDB) and **Security/Identity** (IAM). <br> - **Hands-on:** Focus on fundamental **IAM Policies** and **IAM Roles**. | 25/10/2024 | 25/10/2024 | AWS Builders, AWSboy |
-| Friday | - **Summary and Mock Exams:** Take **practice tests/comprehensive exams** on AWS Builders and AWSboy. <br> - **Review** areas of weakness for further study. | 26/10/2024 | 26/10/2024 | AWS Builders, AWSboy |
+| Monday | - Systematize knowledge of **Compute services** (EC2, Lambda). <br> - **Hands-on:** Complete exercises/labs on creating, configuring, and managing the lifecycle of an **EC2 Instance**. | 22/10/2025 | 22/10/2025 | AWS Builders, AWSboy |
+| Tuesday | - Review knowledge of **Storage services** (S3, EBS, EFS). <br> - **Hands-on:** Complete exercises on S3 storage classes (Standard, IA, Glacier) and EBS options. | 23/10/2025 | 23/10/2025 | AWS Builders, AWSboy |
+| Wednesday | - Consolidate knowledge of **Networking** (VPC, Subnets, Route Tables, Internet Gateway, Security Groups). <br> - **Hands-on:** Practice questions on basic VPC configuration, and the rules of Security Groups and NACLs. | 24/10/2025 | 24/10/2025 | AWS Builders, AWSboy |
+| Thursday | - Review **Database** (RDS, DynamoDB) and **Security/Identity** (IAM). <br> - **Hands-on:** Focus on fundamental **IAM Policies** and **IAM Roles**. | 25/10/2025 | 25/10/2025 | AWS Builders, AWSboy |
+| Friday | - **Summary and Mock Exams:** Take **practice tests/comprehensive exams** on AWS Builders and AWSboy. <br> - **Review** areas of weakness for further study. | 26/10/2025 | 26/10/2025 | AWS Builders, AWSboy |
 
 ---
 

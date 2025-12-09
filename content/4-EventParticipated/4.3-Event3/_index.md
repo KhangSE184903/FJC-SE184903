@@ -6,9 +6,7 @@ chapter: false
 pre: " <b> 4.3. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ Note: The information below is for reference only. Please do not copy it verbatim for your report, including this warning.
-{{% /notice %}}
+
 
 # Event Report: AWS Cloud Mastery Series #1 — AI/ML/GenAI on AWS
 

@@ -6,11 +6,6 @@ chapter: false
 pre: " <b> 4. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
-
----
 
 ## Event 1: Kick-off Chương Trình The First Cloud Journey (FCJ)
 - **Thời gian tổ chức:** 06/09/2025

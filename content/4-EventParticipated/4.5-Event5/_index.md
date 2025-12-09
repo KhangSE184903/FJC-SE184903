@@ -6,10 +6,6 @@ chapter: false
 pre: " <b> 4.5. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ Note: The information below is for reference only. Please do not copy it verbatim for your report, including this warning.
-{{% /notice %}}
-
 # Event Report: AWS Cloud Mastery Series #3 — AWS Well-Architected Security Pillar
 
 ## Event Purpose

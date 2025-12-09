@@ -6,8 +6,6 @@ chapter: false
 pre: "<b>1.4. </b>"
 ---
 
-> **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả lưu ý này.
-
 ## Mục tiêu tuần 4
 
 - Theo kịp tiến độ học tập của nhóm.
@@ -16,12 +14,12 @@ pre: "<b>1.4. </b>"
 
 ## Các công việc cần triển khai trong tuần này
 
-| Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
+| STT | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 |-----|----------|--------------|-----------------|----------------|
-| 2 | - Tìm hiểu AWS Transit Gateway: khái niệm, cách thiết lập, và chuẩn bị tài nguyên cần thiết.<br>- So sánh sự khác biệt giữa VPC Peering và AWS Transit Gateway. | 29/09/2025 | 30/09/2025 | [Tham khảo tại đây](https://aws.amazon.com/transit-gateway/) |
-| 3 | - Tìm hiểu sâu về Amazon EC2 qua các bài giảng module 3 (tính năng, cấu hình, và ứng dụng). | 01/10/2025 | 02/10/2025 | [Tham khảo tại đây](https://youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i&si=NtlkPHvTydrkH4rK) |
-| 4 | - Học và thực hành các lệnh Git cơ bản (commit, push, pull) để làm việc nhóm hiệu quả. | 03/10/2025 | 04/10/2025 | [Tham khảo tại đây](https://www.youtube.com/watch?v=8O14qT3jdq0&list=PLodO7Gi1F7R0t9SyEZF5mwfKevCULLjgG&index=2) |
-| 5 | - Đề xuất ý tưởng và phân công nhiệm vụ cho nhóm để chuẩn bị thực hiện Proposal. | 05/10/2025 | 06/10/2025 | |
+| 1 | - Tìm hiểu AWS Transit Gateway: khái niệm, cách thiết lập, và chuẩn bị tài nguyên cần thiết.<br>- So sánh sự khác biệt giữa VPC Peering và AWS Transit Gateway. | 29/09/2025 | 30/09/2025 | [Tham khảo tại đây](https://aws.amazon.com/transit-gateway/) |
+| 2 | - Tìm hiểu sâu về Amazon EC2 qua các bài giảng module 3 (tính năng, cấu hình, và ứng dụng). | 01/10/2025 | 02/10/2025 | [Tham khảo tại đây](https://youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i&si=NtlkPHvTydrkH4rK) |
+| 3 | - Học và thực hành các lệnh Git cơ bản (commit, push, pull) để làm việc nhóm hiệu quả. | 03/10/2025 | 04/10/2025 | [Tham khảo tại đây](https://www.youtube.com/watch?v=8O14qT3jdq0&list=PLodO7Gi1F7R0t9SyEZF5mwfKevCULLjgG&index=2) |
+| 4 | - Đề xuất ý tưởng và phân công nhiệm vụ cho nhóm để chuẩn bị thực hiện Proposal. | 05/10/2025 | 06/10/2025 | |
 
 ## Kết quả đạt được tuần 4
 

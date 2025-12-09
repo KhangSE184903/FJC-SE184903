@@ -8,9 +8,6 @@ chapter: false
     
 # Internship Report
 
-{{% notice warning %}}
-⚠️ **Note:** The information below is for reference purposes only. Please **do not copy verbatim** for your report, including this warning.
-{{% /notice %}}
 
 ### Student Information:
 &emsp; **Full Name:** Chau Gia Kiet
@@ -19,7 +16,7 @@ chapter: false
 
 &emsp; **Email:** kietcgse180513@fpt.edu.vn
 
-&emsp; **University:** Ho Chi Minh City University of Technology and Education
+&emsp; **University:** FPT University
 
 &emsp; **Major:** software engineer
 
@@ -31,7 +28,7 @@ chapter: false
 
 &emsp; **Internship Duration:** From 12/08/2025 to 12/11/2025
 
-![Your profile picture](/images/avatar.png)
+![Chau Gia Kiet - Profile Picture](/images/Avatar.jpg)
 
 ### Report Content
 

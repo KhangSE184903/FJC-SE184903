@@ -6,9 +6,7 @@ chapter: false
 pre: "<b>1.4. </b>"
 ---
 
-{{% notice warning %}}
-⚠️ **Note:** The following information is for reference purposes only. Please **do not copy verbatim** for your own report, including this warning.
-{{% /notice %}}
+
 
 ### Week 4 Objectives
 
@@ -20,10 +18,10 @@ pre: "<b>1.4. </b>"
 
 | Day | Task | Start Date | Completion Date | Reference Material |
 |-----|------|------------|-----------------|---------------------|
-| 2 | - Explore AWS Transit Gateway: concepts, setup process, and required resources.<br>- Compare the differences between VPC Peering and AWS Transit Gateway. | 29/09/2025 | 30/09/2025 | [REFER HERE](https://aws.amazon.com/transit-gateway/) |
-| 3 | - Deepen knowledge of Amazon EC2 through Module 3 lectures (features, configurations, and applications). | 01/10/2025 | 02/10/2025 | [REFER HERE](https://youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i&si=NtlkPHvTydrkH4rK) |
-| 4 | - Learn and practice basic Git commands (commit, push, pull) for effective team collaboration. | 03/10/2025 | 04/10/2025 | [REFER HERE](https://www.youtube.com/watch?v=8O14qT3jdq0&list=PLodO7Gi1F7R0t9SyEZF5mwfKevCULLjgG&index=2) |
-| 5 | - Propose ideas and assign tasks to team members to prepare for the project proposal. | 05/10/2025 | 06/10/2025 | |
+| 1 | - Explore AWS Transit Gateway: concepts, setup process, and required resources.<br>- Compare the differences between VPC Peering and AWS Transit Gateway. | 29/09/2025 | 30/09/2025 | [REFER HERE](https://aws.amazon.com/transit-gateway/) |
+| 2 | - Deepen knowledge of Amazon EC2 through Module 3 lectures (features, configurations, and applications). | 01/10/2025 | 02/10/2025 | [REFER HERE](https://youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i&si=NtlkPHvTydrkH4rK) |
+| 3 | - Learn and practice basic Git commands (commit, push, pull) for effective team collaboration. | 03/10/2025 | 04/10/2025 | [REFER HERE](https://www.youtube.com/watch?v=8O14qT3jdq0&list=PLodO7Gi1F7R0t9SyEZF5mwfKevCULLjgG&index=2) |
+| 4 | - Propose ideas and assign tasks to team members to prepare for the project proposal. | 05/10/2025 | 06/10/2025 | |
 
 ### Week 4 Achievements
 

@@ -5,9 +5,6 @@ weight: 3
 chapter: false
 pre: " <b> 1.3. </b> "
 ---
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
 
 
 ### Mục tiêu tuần 3:
@@ -17,12 +14,12 @@ pre: " <b> 1.3. </b> "
 * Tìm hiểu và thiết lập VPC-PEERING.
 
 ### Các công việc cần triển khai trong tuần này:
-| Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
+| STT | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 |---|---|---|---|---|
-| 2 | - Tạo lại thẻ Visa và tạo lại tài khoản AWS, cũng như setup các bước ban đầu. | 21/09/2025 | 23/09/2025 | |
-| 3 | - Thực hiện Lab 10 để tìm hiểu về Route 53 và thiết lập hệ thống hybrid DNS.<br>- Khởi chạy máy chủ ảo để triển khai và thiết lập DNS. | 24/09/2025 | 25/09/2025 | [Tham khảo tại đây](https://youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i&si=NtlkPHvTydrkH4rK) |
-| 4 | - Thiết lập kết nối VPC-PEERING để các VPC trong cùng AWS Cloud giao tiếp với nhau.<br>- Tạo các tài nguyên cần thiết cho VPC-PEERING.<br>- Dọn dẹp tài nguyên sau khi hoàn thành. | 25/09/2025 | 26/09/2025 | [Tham khảo tại đây](https://youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i&si=NtlkPHvTydrkH4rK) |
-| 5 | - Tham gia họp nhóm để bàn về dự án. | 28/09/2025 | 28/09/2025 | |
+| 1 | - Tạo lại thẻ Visa và tạo lại tài khoản AWS, cũng như setup các bước ban đầu. | 21/09/2025 | 23/09/2025 | |
+| 2 | - Thực hiện Lab 10 để tìm hiểu về Route 53 và thiết lập hệ thống hybrid DNS.<br>- Khởi chạy máy chủ ảo để triển khai và thiết lập DNS. | 24/09/2025 | 25/09/2025 | [Tham khảo tại đây](https://youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i&si=NtlkPHvTydrkH4rK) |
+| 3 | - Thiết lập kết nối VPC-PEERING để các VPC trong cùng AWS Cloud giao tiếp với nhau.<br>- Tạo các tài nguyên cần thiết cho VPC-PEERING.<br>- Dọn dẹp tài nguyên sau khi hoàn thành. | 25/09/2025 | 26/09/2025 | [Tham khảo tại đây](https://youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i&si=NtlkPHvTydrkH4rK) |
+| 4 | - Tham gia họp nhóm để bàn về dự án. | 28/09/2025 | 28/09/2025 | |
 
 
 ### Kết quả đạt được tuần 3:

@@ -6,37 +6,61 @@ chapter: false
 pre: " <b> 6. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Note:** The information below is for reference purposes only. Please **do not copy it verbatim** into your report, including this warning.
-{{% /notice %}}
+## Internship Performance Evaluation
 
-Throughout my internship at **Amazon Web Services Vietnam Co., Ltd**. from September 6, 2025 to December 24, 2025, I had the opportunity to learn, train, and apply the knowledge gained in university to a real-world working environment.
+During my 12-week internship at **Amazon Web Services Vietnam Co., Ltd.** (September 6, 2024 - December 24, 2024), I underwent a transformative journey from learning basic Cloud Computing concepts to successfully building a production-ready Serverless application on AWS.
 
-I participated in the development of a project with my team—a web application designed as a reference and sharing platform for users to document their journeys across various locations and spaces globally. This project leveraged AWS serverless services to enhance user experience and transition the web application from a local setup to a production environment for widespread sharing. Through this process, I improved my programming skills, adapted to a new language, gained a better understanding of the pros and cons of different AWS services, learned how to deploy a web application to a new, public environment, and developed teamwork skills essential for collaborative product development.
+### Project Overview
 
-Regarding professional conduct, I consistently strived to complete tasks effectively, adhere to regulations, and actively communicate with colleagues to improve work efficiency. I maintained a positive and friendly attitude with my teammates to ensure the successful completion of the project.
+I participated in developing the **Travel Guide Application** - a travel journey sharing platform with a complete Serverless architecture, including:
 
-To objectively reflect on my internship period, I would like to evaluate myself based on the following criteria:
+**Technical Achievements:**
+- Built **Backend API** with 15+ Lambda functions, API Gateway, and Cognito Authentication
+- Designed **6 DynamoDB tables** optimized with GSI for complex query patterns
+- Integrated **AI Image Processing** with Rekognition, SQS pipeline, and SNS/SES notifications
+- Implemented **Infrastructure as Code** with deployment automation scripts
+- Configured **IAM roles & policies** following least privilege principle
 
-| No. | Criteria                            | Description                                                                                      | Good | Fair | Average |
-| --- | ----------------------------------- | ------------------------------------------------------------------------------------------------ | ---- | ---- | ------- |
-| 1   | **Professional knowledge & skills** | Understanding of the field, applying knowledge in practice, proficiency with tools, work quality | ✅    | ☐    | ☐       |
-| 2   | **Ability to learn**                | Ability to absorb new knowledge and learn quickly                                                | ✅    | ☐   | ☐       |
-| 3   | **Proactiveness**                   | Taking initiative, seeking out tasks without waiting for instructions                            | ✅    | ☐    | ☐       |
-| 4   | **Sense of responsibility**         | Completing tasks on time and ensuring quality                                                    | ✅    | ☐    | ☐       |
-| 5   | **Discipline**                      | Adhering to schedules, rules, and work processes                                                 | ✅    | ☐    | ☐       |
-| 6   | **Progressive mindset**             | Willingness to receive feedback and improve oneself                                              | ☐    | ✅    | ☐       |
-| 7   | **Communication**                   | Presenting ideas and reporting work clearly                                                      | ✅    | ☐    | ☐       |
-| 8   | **Teamwork**                        | Working effectively with colleagues and participating in teams                                   | ✅    | ☐    | ☐       |
-| 9   | **Professional conduct**            | Respecting colleagues, partners, and the work environment                                        | ✅    | ☐    | ☐       |
-| 10  | **Problem-solving skills**          | Identifying problems, proposing solutions, and showing creativity                                | ☐    | ✅    | ☐       |
-| 11  | **Contribution to project/team**    | Work effectiveness, innovative ideas, recognition from the team                                  | ✅    | ☐    | ☐       |
-| 12  | **Overall**                         | General evaluation of the entire internship period                                               | ✅    | ☐    | ☐       |
+**Skills Developed:**
+- Understand **Python** for Lambda functions and **React** for Frontend
+- Proficient in **AWS SAM**, Docker, and CI/CD workflows
+- Solved complex problems: CORS, cross-stack references, async processing
+- Debugged and optimized performance in production environment
 
-### Needs Improvement
+**Soft Skills:**
+- Effective teamwork in Agile environment
+- Self-learning and rapid application of new technologies (from zero to production deployment in 12 weeks)
+- Comprehensive documentation for team and end-users
 
-* Enhance my personal sense of responsibility and encourage the same among teammates.
-* Improve my approach to problem-solving and critical thinking.
-* Refine skills in using and developing a real-world project.
-* Work on improving communication skills in daily interactions and professional settings, including handling situations and learning how to clearly explain technical concepts to a non-technical audience.
-* Learn to accept shortcomings and receive feedback from teammates to develop.
+### Evaluation Methodology
+
+To objectively assess my internship performance, I use the criteria table below, reflecting both achievements and areas for improvement:
+
+| No. | Criteria | Detailed Description & Evidence | Excellent | Good | Needs Improvement |
+|-----|----------|--------------------------------|-----------|------|-------------------|
+| 1 | **Technical Knowledge & Skills** | Proficient in AWS services (Lambda, DynamoDB, S3, Cognito, Rekognition), Infrastructure as Code (SAM/CloudFormation), Python/React. Successfully deployed production app with 15+ Lambda functions, 6 DynamoDB tables, AI processing pipeline. | ☐ | ✅ | ☐ |
+| 2 | **Learning Speed & Adaptability** | From zero AWS knowledge to production deployment in 12 weeks. Self-taught SAM, Docker, multi-stack architecture. Resolved complex issues (CORS, cross-stack refs) without prior experience. | ✅ | ☐ | ☐ |
+| 3 | **Initiative & Creativity** | Self-researched and proposed multi-stack pattern for deployment optimization. Proactively debugged and fixed issues (CORS, IAM permissions). Independently wrote deployment automation scripts. | ✅ | ☐ | ☐ |
+| 4 | **Responsibility & Commitment** | Completed 12-week timeline with clear weekly deliverables. High code quality with proper error handling and logging. Comprehensive documentation for team. | ✅ | ☐ | ☐ |
+| 5 | **Discipline & Process** | Followed best practices (least privilege IAM, proper git workflow). Adhered to coding standards and security guidelines. Consistent daily progress tracking. | ✅ | ☐ | ☐ |
+| 6 | **Receptiveness to Feedback** | Applied feedback to improve architecture (transitioned from monolithic to multi-stack). Learned from code reviews and refactored accordingly. Need to improve proactively seeking feedback earlier. | ☐ | ✅ | ☐ |
+| 7 | **Communication Skills** | Wrote detailed documentation (worklog, technical docs). Presented ideas clearly in team meetings. Need to improve explaining technical concepts to non-technical audience. | ☐ | ✅ | ☐ |
+| 8 | **Teamwork** | Collaborated effectively with team members. Shared knowledge and supported colleagues. Contributed to code reviews and technical discussions. | ✅ | ☐ | ☐ |
+| 9 | **Professional Attitude** | Respected colleagues, deadlines, and commitments. Maintained positive attitude when facing challenges. Professional communication in all situations. | ✅ | ☐ | ☐ |
+| 10 | **Problem-Solving Mindset** | Successfully debugged complex issues (CORS, async processing, IAM). Implemented creative solutions (SQS pipeline, multi-stack). Analyzed trade-offs and made informed decisions. | ✅ | ☐ | ☐ |
+| 11 | **Actual Contribution** | Delivered production-ready application with full features. Created reusable infrastructure code. Documented lessons learned for future projects. Positive team feedback on code quality. | ✅ | ☐ | ☐ |
+| 12 | **Overall** | Exceeded expectations for intern position. Progressed from beginner to independently deploying and maintaining production AWS infrastructure. Ready for junior developer role. | ✅ | ☐ | ☐ |
+
+
+
+### Conclusion
+
+The 12-week internship has been a challenging yet rewarding journey. From knowing nothing about AWS, I successfully deployed a production application with complex architecture, demonstrating rapid learning ability and effective problem-solving skills.
+
+What I'm most proud of is not just the technical skills acquired, but the mindset and approach to learning. I learned how to:
+- Break down complex problems into manageable pieces
+- Research effectively and apply knowledge quickly
+- Work independently while collaborating well with the team
+- Maintain quality standards even under pressure
+
+I believe this foundation will help me continue growing as a software engineer and contribute effectively to any team in the future.

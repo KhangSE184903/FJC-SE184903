@@ -1,12 +1,12 @@
 ---
 title: "Worklog Tuần 9"
-date: 2024-11-04
+date: 2025-11-04
 weight: 9
 chapter: false
 pre: " <b> 1.9. </b> "
 ---
 
-> ⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn.
+>
 
 ### Mục tiêu tuần 9: 
 
@@ -21,11 +21,11 @@ pre: " <b> 1.9. </b> "
 
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | :--- | :--- | :--- | :--- | :--- |
-| 2 | - **Nghiên cứu chuyên sâu về AWS SAM:** Tìm hiểu cấu trúc `template.yaml`, cách thức hoạt động của các tài nguyên Serverless (Lambda, API Gateway) trong mô hình SAM. <br> - Lập kế hoạch chi tiết cho việc chuyển đổi mã nguồn đã có sang cấu trúc SAM. | 04/11/2024 | 04/11/2024 | Tài liệu AWS SAM, AWS Study Group |
-| 3 | - **Tái cấu trúc mã nguồn:** Bắt đầu viết lại các chức năng CRUD cơ bản (tạo/cập nhật bài viết) theo khuôn mẫu của SAM (Handlers và Event Triggers). <br> - **Tích hợp Docker:** Cài đặt và cấu hình Docker để đảm bảo phiên bản Python phù hợp cho quá trình `sam build`. | 05/11/2024 | 06/11/2024 | Tài liệu Docker, SAM CLI |
-| 4 | - **Gỡ lỗi và kiểm thử Local:** Thực hiện `sam local invoke` và `sam local start-api`. <br> - **Gặp sự cố nghiêm trọng** trong môi trường Local (Lỗi dependency, xung đột môi trường, vấn đề kết nối DynamoDB local). | 06/11/2024 | 07/11/2024 | Báo cáo lỗi SAM CLI, Stack Overflow |
-| 5 | - **Ra quyết định chiến lược:** Team Backend quyết định chuyển sang chiến lược **deploy-then-test** (triển khai rồi kiểm thử) lên môi trường AWS thật để vượt qua các rào cản gỡ lỗi Local, chấp nhận rủi ro cao. <br> - Tập trung khắc phục các lỗi cấu hình trong `template.yaml` để chuẩn bị cho `sam deploy`. | 07/11/2024 | 08/11/2024 | |
-| 6 | - **Triển khai thành công:** Thực hiện `sam deploy --guided` và cuối cùng đã triển khai dự án lên môi trường AWS. <br> - **Xác thực cơ bản:** Kiểm tra các API Endpoint đã được tạo và hoạt động, chứng minh chức năng CRUD đã online. | 08/11/2024 | 08/11/2024 | Log triển khai AWS CloudFormation |
+| 2 | - **Nghiên cứu chuyên sâu về AWS SAM:** Tìm hiểu cấu trúc `template.yaml`, cách thức hoạt động của các tài nguyên Serverless (Lambda, API Gateway) trong mô hình SAM. <br> - Lập kế hoạch chi tiết cho việc chuyển đổi mã nguồn đã có sang cấu trúc SAM. | 04/11/2025 | 04/11/2025 | Tài liệu AWS SAM, AWS Study Group |
+| 3 | - **Tái cấu trúc mã nguồn:** Bắt đầu viết lại các chức năng CRUD cơ bản (tạo/cập nhật bài viết) theo khuôn mẫu của SAM (Handlers và Event Triggers). <br> - **Tích hợp Docker:** Cài đặt và cấu hình Docker để đảm bảo phiên bản Python phù hợp cho quá trình `sam build`. | 05/11/2025 | 06/11/2025 | Tài liệu Docker, SAM CLI |
+| 4 | - **Gỡ lỗi và kiểm thử Local:** Thực hiện `sam local invoke` và `sam local start-api`. <br> - **Gặp sự cố nghiêm trọng** trong môi trường Local (Lỗi dependency, xung đột môi trường, vấn đề kết nối DynamoDB local). | 06/11/2025 | 07/11/2025 | Báo cáo lỗi SAM CLI, Stack Overflow |
+| 5 | - **Ra quyết định chiến lược:** Team Backend quyết định chuyển sang chiến lược **deploy-then-test** (triển khai rồi kiểm thử) lên môi trường AWS thật để vượt qua các rào cản gỡ lỗi Local, chấp nhận rủi ro cao. <br> - Tập trung khắc phục các lỗi cấu hình trong `template.yaml` để chuẩn bị cho `sam deploy`. | 07/11/2025 | 08/11/2025 | |
+| 6 | - **Triển khai thành công:** Thực hiện `sam deploy --guided` và cuối cùng đã triển khai dự án lên môi trường AWS. <br> - **Xác thực cơ bản:** Kiểm tra các API Endpoint đã được tạo và hoạt động, chứng minh chức năng CRUD đã online. | 08/11/2025 | 08/11/2025 | Log triển khai AWS CloudFormation |
 
 ---
 

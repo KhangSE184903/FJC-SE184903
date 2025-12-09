@@ -6,10 +6,6 @@ chapter: false
 pre: "<b>1.5. </b>"
 ---
 
-{{% notice warning %}}
-⚠️ **Note:** The following information is for reference purposes only. Please **do not copy verbatim** for your own report, including this warning.
-{{% /notice %}}
-
 ### Week 5 Objectives
 
 - Identify the causes of unreasonable costs on AWS services.
@@ -21,10 +17,10 @@ pre: "<b>1.5. </b>"
 
 | Day | Task | Start Date | Completion Date | Reference Material |
 |-----|------|------------|-----------------|---------------------|
-| 2 | - Analyze and identify the causes of abnormal costs on the AWS account. | 07/10/2025 | 08/10/2025 | [REFER HERE](https://aws.amazon.com/aws-cost-management/aws-cost-explorer/) |
-| 3 | - Design and partition the project’s infrastructure architecture.<br>- Propose basic architecture templates for team reference. | 09/10/2025 | 10/10/2025 | [REFER HERE](https://www.facebook.com/groups/awsstudygroupfcj) |
-| 4 | - Build the code skeleton and configure initial project files. | 11/10/2025 | 13/10/2025 | |
-| 5 | - Explore AWS Skill Builder and create an account for learning. | 11/10/2025 | 12/10/2025 | [REFER HERE](https://skillbuilder.aws/) |
+| 1 | - Analyze and identify the causes of abnormal costs on the AWS account. | 07/10/2025 | 08/10/2025 | [REFER HERE](https://aws.amazon.com/aws-cost-management/aws-cost-explorer/) |
+| 2 | - Design and partition the project’s infrastructure architecture.<br>- Propose basic architecture templates for team reference. | 09/10/2025 | 10/10/2025 | [REFER HERE](https://www.facebook.com/groups/awsstudygroupfcj) |
+| 3 | - Build the code skeleton and configure initial project files. | 11/10/2025 | 13/10/2025 | |
+| 4 | - Explore AWS Skill Builder and create an account for learning. | 11/10/2025 | 12/10/2025 | [REFER HERE](https://skillbuilder.aws/) |
 
 ### Week 5 Achievements
 

@@ -1,44 +1,49 @@
 ---
-title: "Chia sẻ, đóng góp ý kiến"
+title: "Góp Ý Chân Thành Từ Một Thành viên trong cộng đồng FCJ"
 date: 2025-01-01
 weight: 7
 chapter: false
 pre: " <b> 7. </b> "
 ---
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
 
->Tại đây bạn có thể tự do đóng góp ý kiến cá nhân về những trải nghiệm khi tham gia chương trình First Cloud Journey, giúp team FCJ cải thiện những vấn đề còn thiếu sót dựa trên các hạng mục sau:
+> Sau khoảng thời gian thực tập thật sự đáng nhớ tại FCJ, mình cảm thấy vô cùng may mắn và muốn gửi lời cảm ơn chân thành. Hành trình này không chỉ là công việc mà còn là một chuỗi trải nghiệm, học hỏi đầy ắp niềm vui. Mình xin phép chia sẻ một vài cảm nhận và góp ý nho nhỏ, hy vọng sẽ hữu ích cho FCJ nhé!
 
+---
 ### Đánh giá chung
 
 **1. Môi trường làm việc**  
-Môi trường làm việc rất thân thiện và cởi mở. Các thành viên trong FCJ luôn sẵn sàng hỗ trợ khi mình gặp khó khăn, kể cả ngoài giờ làm việc. Không gian làm việc gọn gàng, thoải mái, giúp mình tập trung tốt hơn. Tuy nhiên, mình nghĩ có thể bổ sung thêm một số buổi giao lưu hoặc team bonding để mọi người hiểu nhau hơn.
+Thật sự, môi trường tại FCJ là điều mình yêu thích nhất. Mọi người vô cùng thân thiện và cởi mở, mình chưa bao giờ cảm thấy bị lạc lõng. Dù là hỏi những câu "ngô nghê" nhất, mình vẫn luôn nhận được sự hỗ trợ nhiệt tình, thậm chí là ngoài giờ làm. Không gian làm việc gọn gàng, siêu thoải mái cũng giúp mình "vào guồng" nhanh hơn rất nhiều!
 
-**2. Sự hỗ trợ của mentor / team admin**  
-Mentor hướng dẫn rất chi tiết, giải thích rõ ràng khi mình chưa hiểu và luôn khuyến khích mình đặt câu hỏi. Team admin hỗ trợ các thủ tục, tài liệu và tạo điều kiện để mình làm việc thuận lợi. Mình đánh giá cao việc mentor cho phép mình thử và tự xử lý vấn đề thay vì chỉ đưa đáp án.
+**2. Sự hỗ trợ của mentor**  
+Em thực sự biết ơn Mentor vì sự kiên nhẫn và chi tiết trong từng buổi hướng dẫn. Điều em tâm đắc nhất là Mentor luôn cho em cơ hội được tự thử và tự xử lý vấn đề. Thay vì đưa ra đáp án, Mentor đã dạy em cách tìm ra nó. Đó là bài học quý giá nhất!
+Team mentor thì siêu dễ thương, hỗ trợ thủ tục nhanh gọn, tạo mọi điều kiện để intern như em an tâm làm việc, và với sự hỗ trợ tích cực của các anh mentor cùng các buổi workshop đã giúp em đẩy nhanh tiến độ hoàn thành dự án và thúc đẩy nhóm mình deploy thành công dự án.
 
-**3. Sự phù hợp giữa công việc và chuyên ngành học**  
-Công việc mình được giao phù hợp với kiến thức mình đã học ở trường, đồng thời mở rộng thêm những mảng mới mà mình chưa từng được tiếp cận. Nhờ vậy, mình vừa củng cố kiến thức nền tảng, vừa học thêm kỹ năng thực tế.
+
+**3. Sự phù hợp giữa công việc và chuyên ngành học**: Củng cố & Mở mang  
+Công việc được giao có sự liên kết chặt chẽ với những kiến thức em đã học ở trường. Quan trọng hơn, em được tiếp cận những mảng mới, những kỹ năng thực tế mà sách vở chưa kịp truyền tải. Nhờ đó, em vừa vững nền tảng, vừa "level up" được kỹ năng thực chiến. Đặt biệt trong các kĩ năng về cloud và cơ sở hạ tầng cùng các dịch vụ của AWS, và kĩ năng teamwork làm việc với mọi người trong team một cách có trách nhiệm.
 
 **4. Cơ hội học hỏi & phát triển kỹ năng**  
-Trong quá trình thực tập, mình học được nhiều kỹ năng mới như sử dụng công cụ quản lý dự án, kỹ năng làm việc nhóm, và cả cách giao tiếp chuyên nghiệp trong môi trường công ty. Mentor cũng chia sẻ nhiều kinh nghiệm thực tế giúp mình định hướng tốt hơn cho sự nghiệp.
+Khoảng thời gian này đã giúp em "bỏ túi" được rất nhiều kỹ năng mới: từ cách sử dụng các công cụ quản lý dự án chuyên nghiệp, kỹ năng phối hợp làm việc nhóm, đến cả cách giao tiếp chuyên nghiệp trong môi trường công ty. Những chia sẻ kinh nghiệm thực tế của Mentor và mọi người là kim chỉ nam giúp em định hướng rõ hơn cho sự nghiệp sau này.
 
 **5. Văn hóa & tinh thần đồng đội**  
-Văn hóa công ty rất tích cực: mọi người tôn trọng lẫn nhau, làm việc nghiêm túc nhưng vẫn vui vẻ. Khi có dự án gấp, mọi người cùng nhau cố gắng, hỗ trợ không phân biệt vị trí. Điều này giúp mình cảm thấy mình là một phần của tập thể, dù chỉ là thực tập sinh.
+Văn hóa FCJ rất tuyệt vời: tôn trọng, chuyên nghiệp nhưng không hề khô khan. Đặc biệt, khi có dự án gấp, mọi người đều cùng nhau cố gắng, hỗ trợ bất chấp vị trí. Cảm giác được là một phần của tập thể, được đóng góp dù chỉ là một thành viên trong cộng đồng FCJ, thật sự rất ý nghĩa!
 
 **6. Chính sách / phúc lợi cho thực tập sinh**  
-Công ty có hỗ trợ phụ cấp thực tập và tạo điều kiện về thời gian linh hoạt khi cần thiết. Ngoài ra, việc được tham gia các buổi đào tạo nội bộ là một điểm cộng lớn.
-
+Em rất cảm kích về sự linh hoạt về thời gian làm việc khi cần. Việc được tham gia vào các buổi workshop(chia sẻ kiến thức, kỹ năng) là một điểm cộng rất lớn, giúp các thành viên trong công đồng cảm thấy được đầu tư và phát triển nghiêm túc.
 
 ### Một số câu hỏi khác
-- Điều bạn **hài lòng nhất** trong thời gian thực tập?  
-- Điều bạn nghĩ công ty **cần cải thiện** cho các thực tập sinh sau?  
+- Điều bạn **hài lòng nhất** trong thời gian thực tập? 
++ Điều em hài lòng nhất: Chắc chắn là văn hóa công ty và sự hỗ trợ tuyệt vời từ Mentor/Team. Đây là yếu tố quyết định để một thành viên FCJ phát triển và cảm thấy gắn bó. 
+- Điều bạn nghĩ công ty **cần cải thiện** cho các thực tập sinh sau? 
++ Có thể bổ sung một buổi WORKSHOP nhiều hơn để các thành viên hiểu rõ hơn về lộ trình học tập, trao dồi kịp thời bổ sung kiến thức để kịp tiến độ dự án. 
 - Nếu giới thiệu cho bạn bè, bạn có **khuyên họ thực tập ở đây không**? Vì sao?  
-
+ + **Chắc chắn là CÓ!** Bởi vì đây là nơi bạn được thử sức, được học hỏi từ A-Z một cách nghiêm túc, thay vì chỉ làm các công việc hành chính đơn thuần. Môi trường thân thiện và sự hỗ trợ của các anh chị là điều không dễ tìm thấy. 
 
 ### Đề xuất & mong muốn
 - Bạn có đề xuất gì để cải thiện trải nghiệm trong kỳ thực tập?  
 - Bạn có muốn tiếp tục chương trình này trong tương lai?
++ Em **rất mong muốn** có cơ hội tiếp tục đồng hành, đóng góp và phát triển cùng FCJ trong tương lai, nếu có vị trí phù hợp, và hi vọng em có thể góp sức để phát triển các thế hệ sau của cộng đồng.
 - Góp ý khác (tự do chia sẻ):
++ Em thực sự cảm ơn FCJ đã tạo ra một khóa thực tập đầy ý nghĩa và giá trị. Đây không chỉ là nơi làm việc mà còn là nơi em trưởng thành lên rất nhiều. Em hy vọng chương trình thực tập của công ty sẽ ngày càng phát triển, giúp nhiều bạn trẻ khác có được trải nghiệm tuyệt vời như em.
+
+**Cảm ơn FCJ một lần nữa vì tất cả! Chúc công ty/ cộng đồng luôn phát triển vững mạnh!**
