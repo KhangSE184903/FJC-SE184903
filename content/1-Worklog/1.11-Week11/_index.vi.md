@@ -29,13 +29,13 @@ pre: " <b> 1.11. </b> "
 | 4 | - **Gặp lỗi sau khi tích hợp AI:** Hệ thống tiếp tục gặp lỗi sau khi kết hợp chức năng AI, yêu cầu phải xóa Stack cũ và Deploy lại hoàn toàn. <br> - **Leader phát triển Stack dự phòng:** Leader tạo một Stack Multi-Stack riêng biệt, đã tối ưu hóa, để dự phòng và làm tham chiếu cho việc triển khai tối ưu hóa sau này. | 20/11/2025 | 20/11/2025 | Stack dự phòng của Leader |
 | 5 | - **Lỗi CORS tái diễn:** Sau khi deploy lại, hệ thống tiếp tục gặp lỗi CORS. <br> - **Gỡ lỗi CORS chuyên sâu:** Dành thời gian phân tích triệt để nguyên nhân gốc rễ và sửa chữa dứt điểm lỗi CORS, đảm bảo các headers phản hồi được cấu hình chính xác trên cả API Gateway và Lambda. | 21/11/2025 | 21/11/2025 | Cấu hình API Gateway/Lambda |
 | 6 | - **Họp bàn và ổn định hóa dự án:** Họp nhóm để kiểm tra cấu trúc Frontend mới, ổn định lại Stack dự án chính và đồng bộ hóa các bản sửa lỗi CORS và Template. <br> - **Tối ưu hóa bảo trì:** Đưa ra giải pháp sử dụng Stack riêng (do leader phát triển) để đảm bảo tính linh hoạt và dễ tối ưu hóa trong quá trình phát triển tiếp theo. | 22/11/2025 | 22/11/2025 | Báo cáo cấu trúc mới |
-| 7 | Tìm hiểu AWS API Gateway để tạo RESTful APIs. | 14/02/2026 | 14/02/2026 | [API Gateway Docs](https://docs.aws.amazon.com/apigateway/) |
-| 8 | Tìm hiểu về AWS Lambda functions cho backend logic. | 15/02/2026 | 15/02/2026 | [AWS Lambda Docs](https://docs.aws.amazon.com/lambda/) |
-| 9 | Tích hợp API Gateway với AWS Lambda để có chức năng động. | 16/02/2026 | 16/02/2026 | - |
-| 10 | Kết nối API Gateway với React frontend để có tương tác động. | 17/02/2026 | 17/02/2026 | - |
-| 11 | Tìm hiểu về CORS trong API Gateway và xử lý với ứng dụng React. | 18/02/2026 | 18/02/2026 | [API Gateway CORS](https://docs.aws.amazon.com/apigateway/latest/developerguide/how-to-cors.html) |
-| 12 | Triển khai và kiểm thử Lambda functions và API Gateway endpoints. | 19/02/2026 | 19/02/2026 | - |
-| 13 | Tích hợp và tối ưu các API calls giữa frontend và backend. | 20/02/2026 | 20/02/2026 | - |
+| 7 | Tìm hiểu AWS API Gateway để tạo RESTful APIs. | 17/11/2025 | 17/11/2025 | [API Gateway Docs](https://docs.aws.amazon.com/apigateway/) |
+| 8 | Tìm hiểu về AWS Lambda functions cho backend logic. | 18/11/2025 | 18/11/2025 | [AWS Lambda Docs](https://docs.aws.amazon.com/lambda/) |
+| 9 | Tích hợp API Gateway với AWS Lambda để có chức năng động. | 19/11/2025 | 19/11/2025 | - |
+| 10 | Kết nối API Gateway với React frontend để có tương tác động. | 20/11/2025 | 20/11/2025 | - |
+| 11 | Tìm hiểu về CORS trong API Gateway và xử lý với ứng dụng React. | 21/11/2025 | 21/11/2025 | [API Gateway CORS](https://docs.aws.amazon.com/apigateway/latest/developerguide/how-to-cors.html) |
+| 12 | Triển khai và kiểm thử Lambda functions và API Gateway endpoints. | 22/11/2025 | 22/11/2025 | - |
+| 13 | Tích hợp và tối ưu các API calls giữa frontend và backend. | 23/11/2025 | 23/11/2025 | - |
 
 ---
 

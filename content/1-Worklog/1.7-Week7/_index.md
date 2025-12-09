@@ -27,13 +27,13 @@ pre: " <b> 1.7. </b> "
 | 3 | - Consolidate knowledge of **Networking** (VPC, Subnets, Route Tables, Internet Gateway, Security Groups). <br> - **Hands-on:** Practice questions on basic VPC configuration, and the rules of Security Groups and NACLs. | 24/10/2025 | 24/10/2025 | AWS Builders, AWSboy |
 | 4 | - Review **Database** (RDS, DynamoDB) and **Security/Identity** (IAM). <br> - **Hands-on:** Focus on fundamental **IAM Policies** and **IAM Roles**. | 25/10/2025 | 25/10/2025 | AWS Builders, AWSboy |
 | 5 | - **Summary and Mock Exams:** Take **practice tests/comprehensive exams** on AWS Builders and AWSboy. <br> - **Review** areas of weakness for further study. | 26/10/2025 | 26/10/2025 | AWS Builders, AWSboy |
-| 6 | Learn about React.memo for optimizing functional components. | 17/01/2026 | 17/01/2026 | [React.memo](https://react.dev/reference/react/memo) |
-| 7 | Study useCallback and its use cases in React to optimize functions passed as props. | 18/01/2026 | 18/01/2026 | [useCallback Hook](https://react.dev/reference/react/useCallback) |
-| 8 | Understand React.lazy() and Suspense for code splitting and lazy loading. | 19/01/2026 | 19/01/2026 | [React.lazy](https://react.dev/reference/react/lazy) |
-| 9 | Implement lazy loading for large components in your React app. | 20/01/2026 | 20/01/2026 | - |
-| 10 | Optimize performance of React components by using memoization techniques. | 21/01/2026 | 21/01/2026 | - |
-| 11 | Study useEffect for handling side effects and data fetching in React. | 22/01/2026 | 22/01/2026 | [useEffect Hook](https://react.dev/reference/react/useEffect) |
-| 12 | Apply useEffect for optimizing data fetching and rendering in your React app. | 23/01/2026 | 23/01/2026 | - |
+| 6 | Learn about React.memo for optimizing functional components. | 22/10/2025 | 22/10/2025 | [React.memo](https://react.dev/reference/react/memo) |
+| 7 | Study useCallback and its use cases in React to optimize functions passed as props. | 23/10/2025 | 23/10/2025 | [useCallback Hook](https://react.dev/reference/react/useCallback) |
+| 8 | Understand React.lazy() and Suspense for code splitting and lazy loading. | 24/10/2025 | 24/10/2025 | [React.lazy](https://react.dev/reference/react/lazy) |
+| 9 | Implement lazy loading for large components in your React app. | 25/10/2025 | 25/10/2025 | - |
+| 10 | Optimize performance of React components by using memoization techniques. | 26/10/2025 | 26/10/2025 | - |
+| 11 | Study useEffect for handling side effects and data fetching in React. | 27/10/2025 | 27/10/2025 | [useEffect Hook](https://react.dev/reference/react/useEffect) |
+| 12 | Apply useEffect for optimizing data fetching and rendering in your React app. | 28/10/2025 | 28/10/2025 | - |
 
 ---
 

@@ -25,8 +25,8 @@ pre: "<b>1.6. </b>"
 | 2 | - Tìm hiểu AWS Storage Gateway (File, Volume, Tape Gateway).<br>- Nắm khái niệm Object Life Cycle Management.<br>- Tiếp tục học Python cơ bản.<br>- Tham gia webinar "Reinventing DevSecOps with AWS Generative AI" (có sự góp mặt của anh Hoàng Kha). | 16/10/2025 | 17/10/2025 | [Tham khảo tại đây](https://aws.amazon.com/storagegateway/) <br> [Webinar DevSecOps](https://aws.amazon.com/events/) |
 | 3 | - Tìm hiểu Disaster Recovery: khái niệm RTO, RPO, chiến lược Backup & Restore.<br>- Tìm hiểu AWS Backup.<br>- Thực hành tạo S3 Bucket, upload file, và cấu hình Static Website.<br>- Khám phá vai trò DevSecOps và các công cụ phổ biến (CI/CD, SAST, DAST, IaC như Terraform). | 18/10/2025 | 19/10/2025 | [Tham khảo tại đây](https://aws.amazon.com/backup/) |
 | 4 | - Chỉnh sửa và cập nhật sơ đồ kiến trúc hạ tầng dự án.<br>- Tái cấu trúc sườn code (code skeleton) dựa trên kiến trúc mới.<br>- Thống nhất ngôn ngữ lập trình và framework cho dự án.<br>- Khám phá Gen AI là Amazon Q Developer (trợ lý AI cho phát triển phần mềm). | 20/10/2025 | 21/10/2025 | [Amazon Q Developer](https://aws.amazon.com/q/developer/) |
-| 5 | Học xử lý form trong React (controlled vs. uncontrolled components). | 10/01/2026 | 10/01/2026 | [React Forms](https://react.dev/learn) |
-| 6 | Tìm hiểu Formik và cách đơn giản hóa form handling & validation. | 11/01/2026 | 11/01/2026 | [Formik Docs](https://formik.org/) |
+| 5 | Học xử lý form trong React (controlled vs. uncontrolled components). | 14/10/2025 | 17/10/2025 | [React Forms](https://react.dev/learn) |
+| 6 | Tìm hiểu Formik và cách đơn giản hóa form handling & validation. | 18/10/2025 | 20/10/2025 | [Formik Docs](https://formik.org/) |
 | 7 | Thiết lập Formik trong ứng dụng React và thực hiện form validation. | 12/01/2026 | 12/01/2026 | - |
 | 8 | Xử lý validation phía client (regex, Yup) trong form React. | 13/01/2026 | 13/01/2026 | [Yup Validation](https://github.com/jquense/yup) |
 | 9 | Tìm hiểu localStorage và sessionStorage để lưu dữ liệu form và phiên. | 14/01/2026 | 14/01/2026 | [Web Storage API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API) |

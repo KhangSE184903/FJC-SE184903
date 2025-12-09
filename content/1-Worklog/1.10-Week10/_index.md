@@ -29,13 +29,13 @@ pre: " <b> 1.10. </b> "
 | 3 | - **Frontend Integration:** Start combining the Frontend code with the project and test the deployed API Endpoints. <br> - **Successfully display** the list of posts on the interface. | 13/11/2025 | 13/11/2025 | Sample Frontend interface |
 | 4 | - Deploy and test the **Delete** function (Deleting posts). <br> - **Encountered Error:** Identified an issue with **Authorization** and the **Sub ID** when executing the Delete function. | 14/11/2025 | 14/11/2025 | |
 | 5 | - **Participation in AWS Cloud Mastery Series:** <br>&emsp; + Received guidance and clarified questions regarding Serverless, Rekognition. <br> - **Analyze Update/Rekognition error:** Begin applying mentor guidance to resolve authorization issues and Rekognition-related errors. | 15/11/2025 | 15/11/2025 | Mentor, AWS Cloud Mastery Series |
-| 6 | Study how to deploy a React app to AWS S3. | 07/02/2026 | 07/02/2026 | [AWS S3 Docs](https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteHosting.html) |
-| 7 | Set up an S3 bucket for static website hosting. | 08/02/2026 | 08/02/2026 | - |
-| 8 | Learn how to configure AWS CloudFront to distribute content globally. | 09/02/2026 | 09/02/2026 | [CloudFront Docs](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html) |
-| 9 | Configure S3 bucket and CloudFront for the React app. | 10/02/2026 | 10/02/2026 | - |
-| 10 | Deploy the app to AWS and test via CloudFront. | 11/02/2026 | 11/02/2026 | - |
-| 11 | Set up CI/CD pipeline with AWS CodePipeline for automated deployments. | 12/02/2026 | 12/02/2026 | [CodePipeline Docs](https://docs.aws.amazon.com/codepipeline/latest/userguide/welcome.html) |
-| 12 | Test deployment and optimize for performance (compression, caching). | 13/02/2026 | 13/02/2026 | - |
+| 6 | Study how to deploy a React app to AWS S3. | 11/11/2025 | 11/11/2025 | [AWS S3 Docs](https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteHosting.html) |
+| 7 | Set up an S3 bucket for static website hosting. | 12/11/2025 | 12/11/2025 | - |
+| 8 | Learn how to configure AWS CloudFront to distribute content globally. | 13/11/2025 | 13/11/2025 | [CloudFront Docs](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html) |
+| 9 | Configure S3 bucket and CloudFront for the React app. | 14/11/2025 | 14/11/2025 | - |
+| 10 | Deploy the app to AWS and test via CloudFront. | 15/11/2025 | 15/11/2025 | - |
+| 11 | Set up CI/CD pipeline with AWS CodePipeline for automated deployments. | 16/11/2025 | 16/11/2025 | [CodePipeline Docs](https://docs.aws.amazon.com/codepipeline/latest/userguide/welcome.html) |
+| 12 | Test deployment and optimize for performance (compression, caching). | 17/11/2025 | 17/11/2025 | - |
 
 ---
 

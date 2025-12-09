@@ -25,13 +25,13 @@ pre: "<b>1.6. </b>"
 | 2 | - Learn about AWS Storage Gateway (File, Volume, Tape Gateway).<br>- Understand Object Life Cycle Management.<br>- Continue studying basic Python.<br>- Attend the "Reinventing DevSecOps with AWS Generative AI" webinar (featuring Hoàng Kha). | 16/10/2025 | 17/10/2025 | [REFER HERE](https://aws.amazon.com/storagegateway/)<br>[REFER HERE](https://aws.amazon.com/events/) |
 | 3 | - Study Disaster Recovery: RTO, RPO, and Backup & Restore strategy.<br>- Explore AWS Backup.<br>- Practice creating an S3 Bucket, uploading files, and configuring a Static Website.<br>- Learn about the DevSecOps role and common tools (CI/CD, SAST, DAST, IaC like Terraform). | 18/10/2025 | 19/10/2025 | [REFER HERE](https://aws.amazon.com/backup/) |
 | 4 | - Update and refine the project’s infrastructure architecture diagram.<br>- Restructure the code skeleton based on the updated architecture.<br>- Finalize the programming language and framework for the project.<br>- Explore Amazon Q Developer (AI assistant for software development). | 20/10/2025 | 21/10/2025 | [REFER HERE](https://aws.amazon.com/q/developer/) |
-| 5 | Learn about form handling in React (controlled vs. uncontrolled components). | 10/01/2026 | 10/01/2026 | [React Forms](https://react.dev/learn) |
-| 6 | Study Formik and how it simplifies form handling and validation. | 11/01/2026 | 11/01/2026 | [Formik Docs](https://formik.org/) |
-| 7 | Set up Formik in your React app and handle form validation. | 12/01/2026 | 12/01/2026 | - |
-| 8 | Handle client-side validation (regex, Yup) in React forms. | 13/01/2026 | 13/01/2026 | [Yup Validation](https://github.com/jquense/yup) |
-| 9 | Study localStorage and sessionStorage for storing form data and session info. | 14/01/2026 | 14/01/2026 | [Web Storage API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API) |
-| 10 | Implement localStorage/sessionStorage to store user data in your app. | 15/01/2026 | 15/01/2026 | - |
-| 11 | Build a form that saves data in localStorage and validates inputs. | 16/01/2026 | 16/01/2026 | - |
+| 5 | Learn about form handling in React (controlled vs. uncontrolled components). | 14/10/2025 | 17/10/2025 | [React Forms](https://react.dev/learn) |
+| 6 | Study Formik and how it simplifies form handling and validation. | 18/10/2025 | 20/10/2025 | [Formik Docs](https://formik.org/) |
+| 7 | Set up Formik in your React app and handle form validation. | 16/10/2025 | 16/10/2025 | - |
+| 8 | Handle client-side validation (regex, Yup) in React forms. | 17/10/2025 | 17/10/2025 | [Yup Validation](https://github.com/jquense/yup) |
+| 9 | Study localStorage and sessionStorage for storing form data and session info. | 18/10/2025 | 18/10/2025 | [Web Storage API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API) |
+| 10 | Implement localStorage/sessionStorage to store user data in your app. | 19/10/2025 | 19/10/2025 | - |
+| 11 | Build a form that saves data in localStorage and validates inputs. | 20/10/2025 | 20/10/2025 | - |
 
 ### Week 6 Achievements
 

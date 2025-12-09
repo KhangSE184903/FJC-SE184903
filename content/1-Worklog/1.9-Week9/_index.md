@@ -28,13 +28,13 @@ pre: " <b> 1.9. </b> "
 | 3 | - **Local Debugging and Testing:** Execute `sam local invoke` and `sam local start-api`. <br> - **Encountered critical issues** in the Local environment (Dependency errors, environment conflicts, DynamoDB local connection issues). | 06/11/2025 | 07/11/2025 | SAM CLI Error Reports, Stack Overflow |
 | 4 | - **Strategic Decision:** The Backend Team decided to switch to a **deploy-then-test** strategy on the actual AWS environment to overcome local debugging barriers, accepting the high risk. <br> - Focus on fixing configuration errors in `template.yaml` in preparation for `sam deploy`. | 07/11/2025 | 08/11/2025 | |
 | 5 | - **Successful Deployment:** Executed `sam deploy --guided` and finally deployed the project to the AWS environment. <br> - **Basic Verification:** Tested the created and functioning API Endpoints, confirming CRUD functionality is online. | 08/11/2025 | 08/11/2025 | AWS CloudFormation Deployment Logs |
-| 6 | Learn the basics of Progressive Web Apps (PWA) and the benefits. | 31/01/2026 | 31/01/2026 | [PWA Basics](https://web.dev/progressive-web-apps/) |
-| 7 | Study how Service Workers work in PWAs and set them up in a React app. | 01/02/2026 | 01/02/2026 | [Service Worker Guide](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API) |
-| 8 | Implement a Service Worker to enable offline functionality in the React app. | 02/02/2026 | 02/02/2026 | - |
-| 9 | Use caching strategies with Service Workers to improve performance. | 03/02/2026 | 03/02/2026 | - |
-| 10 | Implement Push Notifications in the React app using Service Workers. | 04/02/2026 | 04/02/2026 | [Push Notifications with PWA](https://web.dev/notifications/) |
-| 11 | Test the app as a PWA and verify offline capability. | 05/02/2026 | 05/02/2026 | - |
-| 12 | Optimize the app for PWA installation (manifest, icons, etc.). | 06/02/2026 | 06/02/2026 | [PWA Installation Guide](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Guides/Installing) |
+| 6 | Learn the basics of Progressive Web Apps (PWA) and the benefits. | 04/11/2025 | 04/11/2025 | [PWA Basics](https://web.dev/progressive-web-apps/) |
+| 7 | Study how Service Workers work in PWAs and set them up in a React app. | 05/11/2025 | 05/11/2025 | [Service Worker Guide](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API) |
+| 8 | Implement a Service Worker to enable offline functionality in the React app. | 06/11/2025 | 06/11/2025 | - |
+| 9 | Use caching strategies with Service Workers to improve performance. | 07/11/2025 | 07/11/2025 | - |
+| 10 | Implement Push Notifications in the React app using Service Workers. | 08/11/2025 | 08/11/2025 | [Push Notifications with PWA](https://web.dev/notifications/) |
+| 11 | Test the app as a PWA and verify offline capability. | 09/11/2025 | 09/11/2025 | - |
+| 12 | Optimize the app for PWA installation (manifest, icons, etc.). | 10/11/2025 | 10/11/2025 | [PWA Installation Guide](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Guides/Installing) |
 
 ---
 

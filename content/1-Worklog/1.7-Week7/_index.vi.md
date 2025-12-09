@@ -26,13 +26,13 @@ pre: " <b> 1.7. </b> "
 | 3 | - Củng cố kiến thức về **Networking** (VPC, Subnets, Route Tables, Internet Gateway, Security Group). <br> - **Thực hành:** Luyện tập các câu hỏi về cấu hình VPC cơ bản, quy tắc của Security Group và NACL. | 24/10/2025 | 24/10/2025 | AWS Builders, AWSboy |
 | 4 | - Ôn tập **Database** (RDS, DynamoDB) và **Security/Identity** (IAM). <br> - **Thực hành:** Tập trung vào các chính sách **IAM Policy** và **IAM Role** cơ bản. | 25/10/2025 | 25/10/2025 | AWS Builders, AWSboy |
 | 5 | - **Tổng kết và Luyện đề:** Làm các **bài thi thử/đề tổng hợp** trên AWS Builders và AWSboy. <br> - **Rà soát** lại các kiến thức còn yếu và cần bổ sung. | 26/10/2025 | 26/10/2025 | AWS Builders, AWSboy |
-| 7 | Tìm hiểu về React.memo để tối ưu functional components. | 17/01/2026 | 17/01/2026 | [React.memo](https://react.dev/reference/react/memo) |
-| 8 | Tìm hiểu useCallback và các trường hợp sử dụng trong React để tối ưu các hàm được truyền như props. | 18/01/2026 | 18/01/2026 | [useCallback Hook](https://react.dev/reference/react/useCallback) |
-| 9 | Hiểu React.lazy() và Suspense cho code splitting và lazy loading. | 19/01/2026 | 19/01/2026 | [React.lazy](https://react.dev/reference/react/lazy) |
-| 10 | Triển khai lazy loading cho các component lớn trong ứng dụng React. | 20/01/2026 | 20/01/2026 | - |
-| 11 | Tối ưu hiệu năng của React components bằng các kỹ thuật memoization. | 21/01/2026 | 21/01/2026 | - |
-| 12 | Tìm hiểu useEffect để xử lý side effects và data fetching trong React. | 22/01/2026 | 22/01/2026 | [useEffect Hook](https://react.dev/reference/react/useEffect) |
-| 13 | Áp dụng useEffect để tối ưu data fetching và rendering trong ứng dụng React. | 23/01/2026 | 23/01/2026 | - |
+| 6 | Tìm hiểu về React.memo để tối ưu functional components. | 22/10/2025 | 22/10/2025 | [React.memo](https://react.dev/reference/react/memo) |
+| 7 | Tìm hiểu useCallback và các trường hợp sử dụng trong React để tối ưu các hàm được truyền như props. | 23/10/2025 | 23/10/2025 | [useCallback Hook](https://react.dev/reference/react/useCallback) |
+| 8 | Hiểu React.lazy() và Suspense cho code splitting và lazy loading. | 24/10/2025 | 24/10/2025 | [React.lazy](https://react.dev/reference/react/lazy) |
+| 9 | Triển khai lazy loading cho các component lớn trong ứng dụng React. | 25/10/2025 | 25/10/2025 | - |
+| 10 | Tối ưu hiệu năng của React components bằng các kỹ thuật memoization. | 26/10/2025 | 26/10/2025 | - |
+| 11 | Tìm hiểu useEffect để xử lý side effects và data fetching trong React. | 27/10/2025 | 27/10/2025 | [useEffect Hook](https://react.dev/reference/react/useEffect) |
+| 12 | Áp dụng useEffect để tối ưu data fetching và rendering trong ứng dụng React. | 28/10/2025 | 28/10/2025 | - |
 
 ---
 

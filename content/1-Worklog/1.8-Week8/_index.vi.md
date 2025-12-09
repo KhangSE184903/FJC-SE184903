@@ -28,13 +28,13 @@ pre: " <b> 1.8. </b> "
 | 3 | - **Thi giữa kỳ** (Ngày 31/10) - Hoàn thành mục tiêu quan trọng nhất. | 31/10/2025 | 31/10/2025 | |
 | 4 | - Bắt đầu triển khai chức năng **CRUD cơ bản** đầu tiên (Ví dụ: tạo bài viết, cập nhập được bài viết). <br> - Tìm hiểu và triển khai thử nghiệm **AWS Lambda** và **DynamoDB** (để xây dựng API Serverless). | 01/11/2025 | 01/11/2025 | Tài liệu AWS Lambda & DynamoDB |
 | 5 | - **Lên kế hoạch tích hợp Serverless AI:** <br> &emsp; + Nghiên cứu **AWS Rekognition** và các chức năng sẽ dùng (phân tích ảnh địa điểm, nhận diện đối tượng...). <br> &emsp; + Xác định luồng dữ liệu (S3 -> Lambda -> Rekognition) và các thành phần cần thiết. | 02/11/2025 | 02/11/2025 | Tài liệu AWS Rekognition, YouTube |
-| 7 | Tìm hiểu về JWT cho xác thực người dùng. | 24/01/2026 | 24/01/2026 | [JWT Documentation](https://jwt.io/) |
-| 8 | Triển khai xác thực người dùng trong ứng dụng bằng JWT. | 25/01/2026 | 25/01/2026 | - |
-| 9 | Học cách quản lý JWT tokens trong React (lưu trữ trong localStorage/sessionStorage). | 26/01/2026 | 26/01/2026 | - |
-| 10 | Thiết lập authorization để hạn chế truy cập vào các route cụ thể dựa trên vai trò người dùng. | 27/01/2026 | 27/01/2026 | [React Router Authentication](https://reactrouter.com/en/main/start/overview) |
-| 11 | Bảo mật ứng dụng React với role-based access control sử dụng JWT. | 28/01/2026 | 28/01/2026 | - |
-| 12 | Tìm hiểu cách xử lý JWT refresh tokens để quản lý phiên làm việc kéo dài. | 29/01/2026 | 29/01/2026 | [JWT Refresh Tokens](https://auth0.com/blog/refresh-tokens-what-are-they-and-when-to-use-them/) |
-| 13 | Triển khai refresh tokens để giữ người dùng đăng nhập theo thời gian. | 30/01/2026 | 30/01/2026 | - |
+| 6 | Tìm hiểu về JWT cho xác thực người dùng. | 28/10/2025 | 28/10/2025 | [JWT Documentation](https://jwt.io/) |
+| 7 | Triển khai xác thực người dùng trong ứng dụng bằng JWT. | 29/10/2025 | 29/10/2025 | - |
+| 8 | Học cách quản lý JWT tokens trong React (lưu trữ trong localStorage/sessionStorage). | 30/10/2025 | 30/10/2025 | - |
+| 9 | Thiết lập authorization để hạn chế truy cập vào các route cụ thể dựa trên vai trò người dùng. | 31/10/2025 | 31/10/2025 | [React Router Authentication](https://reactrouter.com/en/main/start/overview) |
+| 10 | Bảo mật ứng dụng React với role-based access control sử dụng JWT. | 01/11/2025 | 01/11/2025 | - |
+| 11 | Tìm hiểu cách xử lý JWT refresh tokens để quản lý phiên làm việc kéo dài. | 02/11/2025 | 02/11/2025 | [JWT Refresh Tokens](https://auth0.com/blog/refresh-tokens-what-are-they-and-when-to-use-them/) |
+| 12 | Triển khai refresh tokens để giữ người dùng đăng nhập theo thời gian. | 03/11/2025 | 03/11/2025 | - |
 
 ---
 

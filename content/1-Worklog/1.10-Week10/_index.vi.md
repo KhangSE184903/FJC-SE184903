@@ -28,13 +28,13 @@ pre: " <b> 1.10. </b> "
 | 3 | - **Tích hợp Frontend:** Bắt đầu kết hợp mã nguồn Frontend vào dự án và kiểm thử các API Endpoint đã deploy. <br> - **Thành công hiển thị** danh sách bài viết trên giao diện. | 13/11/2025 | 13/11/2025 | Giao diện Frontend mẫu |
 | 4 | - Triển khai và kiểm thử chức năng **Delete** (Xóa bài viết). <br> - **Gặp lỗi:** Phát hiện vấn đề về **xác thực (Authorization)** và **Sub ID** khi thực hiện chức năng Delete. | 14/11/2025 | 14/11/2025 | |
 | 5 | - **Tham gia sự kiện AWS Cloud Mastery Series:** <br>&emsp; + Nhận hướng dẫn và giải đáp các thắc mắc về Serverless, Rekognition. <br> - Phân tích lỗi **Update/Rekognition:** Bắt đầu áp dụng hướng dẫn từ Mentor để giải quyết vấn đề xác thực và lỗi liên quan đến Rekognition. | 15/11/2025 | 15/11/2025 | Mentor, AWS Cloud Mastery Series |
-| 7 | Tìm hiểu cách deploy ứng dụng React lên AWS S3. | 07/02/2026 | 07/02/2026 | [AWS S3 Docs](https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteHosting.html) |
-| 8 | Thiết lập S3 bucket cho static website hosting. | 08/02/2026 | 08/02/2026 | - |
-| 9 | Tìm hiểu cấu hình AWS CloudFront để phân phối nội dung toàn cầu. | 09/02/2026 | 09/02/2026 | [CloudFront Docs](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html) |
-| 10 | Cấu hình S3 bucket và CloudFront cho ứng dụng React. | 10/02/2026 | 10/02/2026 | - |
-| 11 | Deploy ứng dụng lên AWS và kiểm thử qua CloudFront. | 11/02/2026 | 11/02/2026 | - |
-| 12 | Thiết lập CI/CD với AWS CodePipeline để tự động hóa deploy. | 12/02/2026 | 12/02/2026 | [CodePipeline Docs](https://docs.aws.amazon.com/codepipeline/latest/userguide/welcome.html) |
-| 13 | Kiểm thử deploy và tối ưu hiệu năng (nén, caching). | 13/02/2026 | 13/02/2026 | - |
+| 6 | Tìm hiểu cách deploy ứng dụng React lên AWS S3. | 11/11/2025 | 11/11/2025 | [AWS S3 Docs](https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteHosting.html) |
+| 7 | Thiết lập S3 bucket cho static website hosting. | 12/11/2025 | 12/11/2025 | - |
+| 8 | Tìm hiểu cấu hình AWS CloudFront để phân phối nội dung toàn cầu. | 13/11/2025 | 13/11/2025 | [CloudFront Docs](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html) |
+| 9 | Cấu hình S3 bucket và CloudFront cho ứng dụng React. | 14/11/2025 | 14/11/2025 | - |
+| 10 | Deploy ứng dụng lên AWS và kiểm thử qua CloudFront. | 15/11/2025 | 15/11/2025 | - |
+| 11 | Thiết lập CI/CD với AWS CodePipeline để tự động hóa deploy. | 16/11/2025 | 16/11/2025 | [CodePipeline Docs](https://docs.aws.amazon.com/codepipeline/latest/userguide/welcome.html) |
+| 12 | Kiểm thử deploy và tối ưu hiệu năng (nén, caching). | 17/11/2025 | 17/11/2025 | - |
 
 ---
 

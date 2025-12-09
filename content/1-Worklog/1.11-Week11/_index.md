@@ -29,13 +29,13 @@ pre: " <b> 1.11. </b> "
 | 4 | - **Error Encountered after AI Integration:** The system faced errors after combining AI functionality, necessitating a full Stack deletion and redeployment. <br> - **Leader Develops Backup Stack:** The team leader created a separate, optimized Multi-Stack as a contingency and reference for future optimal deployments. | 20/11/2025 | 20/11/2025 | Leader's Backup Stack |
 | 5 | - **Persistent CORS Error:** After redeploying, the CORS issue re-emerged. <br> - **In-depth CORS Debugging:** Spent time thoroughly analyzing the root cause and permanently fixing the CORS error, ensuring correct header configuration on both API Gateway and Lambda. | 21/11/2025 | 21/11/2025 | API Gateway/Lambda Configuration |
 | 6 | - **Team Meeting and Project Stabilization:** Held a team meeting to review the new Frontend structure, stabilize the main project Stack, and synchronize the fixes for CORS and basic template errors. <br> - **Optimization for Maintenance:** Finalized the solution to use a separate stack (developed by the leader) for flexibility and easier optimization in future development. | 22/11/2025 | 22/11/2025 | New Structure Report |
-| 7 | Study AWS API Gateway for creating RESTful APIs. | 14/02/2026 | 14/02/2026 | [API Gateway Docs](https://docs.aws.amazon.com/apigateway/) |
-| 8 | Learn about AWS Lambda functions for backend logic. | 15/02/2026 | 15/02/2026 | [AWS Lambda Docs](https://docs.aws.amazon.com/lambda/) |
-| 9 | Integrate API Gateway with AWS Lambda for dynamic functionality. | 16/02/2026 | 16/02/2026 | - |
-| 10 | Connect the API Gateway with your React frontend for dynamic interactions. | 17/02/2026 | 17/02/2026 | - |
-| 11 | Learn about CORS in API Gateway and handle it with your React app. | 18/02/2026 | 18/02/2026 | [API Gateway CORS](https://docs.aws.amazon.com/apigateway/latest/developerguide/how-to-cors.html) |
-| 12 | Deploy and test your Lambda functions and API Gateway endpoints. | 19/02/2026 | 19/02/2026 | - |
-| 13 | Integrate and optimize API calls between the frontend and backend. | 20/02/2026 | 20/02/2026 | - |
+| 7 | Study AWS API Gateway for creating RESTful APIs. | 17/11/2025 | 17/11/2025 | [API Gateway Docs](https://docs.aws.amazon.com/apigateway/) |
+| 8 | Learn about AWS Lambda functions for backend logic. | 18/11/2025 | 18/11/2025 | [AWS Lambda Docs](https://docs.aws.amazon.com/lambda/) |
+| 9 | Integrate API Gateway with AWS Lambda for dynamic functionality. | 19/11/2025 | 19/11/2025 | - |
+| 10 | Connect the API Gateway with your React frontend for dynamic interactions. | 20/11/2025 | 20/11/2025 | - |
+| 11 | Learn about CORS in API Gateway and handle it with your React app. | 21/11/2025 | 21/11/2025 | [API Gateway CORS](https://docs.aws.amazon.com/apigateway/latest/developerguide/how-to-cors.html) |
+| 12 | Deploy and test your Lambda functions and API Gateway endpoints. | 22/11/2025 | 22/11/2025 | - |
+| 13 | Integrate and optimize API calls between the frontend and backend. | 23/11/2025 | 23/11/2025 | - |
 
 ---
 

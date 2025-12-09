@@ -26,13 +26,13 @@ pre: " <b> 1.12. </b> "
 | 3 | - **Frontend Interface Finalization:** Complete interfaces for the main pages (Homepage, Article Detail, Personal Management Page). <br> - **Implement Map Pinning:** Integrate Map Pinning functionality for posts, utilizing geo data in DynamoDB or an appropriate map service. | 27/11/2025 | 27/11/2025 | Frontend Codebase, DynamoDB Geo |
 | 4 | - **Finalize Security (Authorization):** Optimize authentication and permissions (IAM Policy/Cognito), especially accurate `Sub` retrieval for user operations. <br> - **Implement SNS:** Integrate **AWS SNS** for basic notification features (e.g., notification when a post is successfully processed/uploaded). | 28/11/2025 | 28/11/2025 | AWS SNS, Cognito/IAM Documentation |
 | 5 | - **Attend the Final AWS Cloud Mastery Series Event:** Receive overall project guidance, review and finalize missing parts (domain, security, SNS) before the demo. <br> - **Domain Name:** Conduct research and prepare for purchasing the website domain, configuring basic DNS (Route 53) as necessary (based on mentor guidance). | 29/11/2025 | 29/11/2025 | Mentor, AWS Cloud Mastery Series, Route 53 |
-| 7 | Review the entire project and fix any bugs in the app. | 21/02/2026 | 21/02/2026 | - |
-| 8 | Optimize UI/UX design based on feedback and testing. | 22/02/2026 | 22/02/2026 | - |
-| 9 | Prepare a project presentation covering both frontend and AWS integration. | 23/02/2026 | 23/02/2026 | - |
-| 10 | Create a technical report outlining the architecture, technologies, and process used. | 24/02/2026 | 24/02/2026 | - |
-| 11 | Conduct a demo of your final project. | 25/02/2026 | 25/02/2026 | - |
-| 12 | Make final adjustments to the app based on demo feedback. | 26/02/2026 | 26/02/2026 | - |
-| 13 | Submit the final project and documentation. | 27/02/2026 | 27/02/2026 | - |
+| 7 | Review the entire project and fix any bugs in the app. | 25/11/2025 | 25/11/2025 | - |
+| 8 | Optimize UI/UX design based on feedback and testing. | 26/11/2025 | 26/11/2025 | - |
+| 9 | Prepare a project presentation covering both frontend and AWS integration. | 27/11/2025 | 27/11/2025 | - |
+| 10 | Create a technical report outlining the architecture, technologies, and process used. | 28/11/2025 | 28/11/2025 | - |
+| 11 | Conduct a demo of your final project. | 29/11/2025 | 29/11/2025 | - |
+| 12 | Make final adjustments to the app based on demo feedback. | 30/11/2025 | 30/11/2025 | - |
+| 13 | Submit the final project and documentation. | 01/12/2025 | 01/12/2025 | - |
 
 ---
 

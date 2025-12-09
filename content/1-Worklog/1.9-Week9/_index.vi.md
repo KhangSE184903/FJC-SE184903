@@ -28,13 +28,13 @@ pre: " <b> 1.9. </b> "
 | 3 | - **Gỡ lỗi và kiểm thử Local:** Thực hiện `sam local invoke` và `sam local start-api`. <br> - **Gặp sự cố nghiêm trọng** trong môi trường Local (Lỗi dependency, xung đột môi trường, vấn đề kết nối DynamoDB local). | 06/11/2025 | 07/11/2025 | Báo cáo lỗi SAM CLI, Stack Overflow |
 | 4 | - **Ra quyết định chiến lược:** Team Backend quyết định chuyển sang chiến lược **deploy-then-test** (triển khai rồi kiểm thử) lên môi trường AWS thật để vượt qua các rào cản gỡ lỗi Local, chấp nhận rủi ro cao. <br> - Tập trung khắc phục các lỗi cấu hình trong `template.yaml` để chuẩn bị cho `sam deploy`. | 07/11/2025 | 08/11/2025 | |
 | 5 | - **Triển khai thành công:** Thực hiện `sam deploy --guided` và cuối cùng đã triển khai dự án lên môi trường AWS. <br> - **Xác thực cơ bản:** Kiểm tra các API Endpoint đã được tạo và hoạt động, chứng minh chức năng CRUD đã online. | 08/11/2025 | 08/11/2025 | Log triển khai AWS CloudFormation |
-| 7 | Học các kiến thức cơ bản về Progressive Web Apps (PWA) và lợi ích. | 31/01/2026 | 31/01/2026 | [PWA Basics](https://web.dev/progressive-web-apps/) |
-| 8 | Tìm hiểu Service Worker trong PWA và cách thiết lập trong ứng dụng React. | 01/02/2026 | 01/02/2026 | [Service Worker Guide](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API) |
-| 9 | Triển khai Service Worker để kích hoạt chế độ offline cho ứng dụng React. | 02/02/2026 | 02/02/2026 | - |
-| 10 | Sử dụng các chiến lược caching với Service Worker để cải thiện hiệu năng. | 03/02/2026 | 03/02/2026 | - |
-| 11 | Triển khai Push Notifications trong ứng dụng React bằng Service Worker. | 04/02/2026 | 04/02/2026 | [Push Notifications with PWA](https://web.dev/notifications/) |
-| 12 | Kiểm thử ứng dụng như một PWA và xác nhận khả năng offline. | 05/02/2026 | 05/02/2026 | - |
-| 13 | Tối ưu ứng dụng cho việc cài đặt PWA (manifest, icons, v.v.). | 06/02/2026 | 06/02/2026 | [PWA Installation Guide](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Guides/Installing) |
+| 6 | Học các kiến thức cơ bản về Progressive Web Apps (PWA) và lợi ích. | 04/11/2025 | 04/11/2025 | [PWA Basics](https://web.dev/progressive-web-apps/) |
+| 7 | Tìm hiểu Service Worker trong PWA và cách thiết lập trong ứng dụng React. | 05/11/2025 | 05/11/2025 | [Service Worker Guide](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API) |
+| 8 | Triển khai Service Worker để kích hoạt chế độ offline cho ứng dụng React. | 06/11/2025 | 06/11/2025 | - |
+| 9 | Sử dụng các chiến lược caching với Service Worker để cải thiện hiệu năng. | 07/11/2025 | 07/11/2025 | - |
+| 10 | Triển khai Push Notifications trong ứng dụng React bằng Service Worker. | 08/11/2025 | 08/11/2025 | [Push Notifications with PWA](https://web.dev/notifications/) |
+| 11 | Kiểm thử ứng dụng như một PWA và xác nhận khả năng offline. | 09/11/2025 | 09/11/2025 | - |
+| 12 | Tối ưu ứng dụng cho việc cài đặt PWA (manifest, icons, v.v.). | 10/11/2025 | 10/11/2025 | [PWA Installation Guide](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Guides/Installing) |
 
 ---
 
