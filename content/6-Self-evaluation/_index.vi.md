@@ -14,19 +14,22 @@ Trong 12 tuần thực tập tại **Amazon Web Services Vietnam Co., Ltd.** (06
 
 Tôi đã tham gia phát triển **Travel Guide Application** - một nền tảng chia sẻ hành trình du lịch với kiến trúc Serverless hoàn chỉnh, bao gồm:
 
-**Thành tựu Kỹ thuật:**
-- Triển khai CloudFormation/SAM cho 6+ microservices
-- Xây dựng **Backend API** với 15+ Lambda functions, API Gateway, và Cognito Authentication
-- Thiết kế **6 DynamoDB tables** tối ưu với GSI cho query patterns phức tạp
-- Tích hợp **AI Image Processing** với Rekognition, SQS pipeline, và SNS/SES notifications
-- Implement **Infrastructure as Code** với deployment automation scripts
-- Cấu hình **IAM roles & policies** theo nguyên tắc least privilege
+**Thành Tựu Kỹ Thuật:**
+- Triển khai AWS CloudFront cho các ứng dụng React (static và dynamic): phân phối tài nguyên tĩnh (ảnh, JS, CSS) và động (API).
+- Xây dựng backend với Amazon S3 cho upload file: tích hợp upload từ frontend lên S3 qua pre-signed URLs.
+- Tích hợp AWS Location Service: thêm bản đồ và tìm kiếm địa điểm vào ứng dụng.
+- Xây dựng hệ thống serverless với Lambda: API và chức năng backend bằng Lambda functions.
+- Cấu hình IAM roles và policies: thiết lập quyền truy cập theo nguyên tắc least privilege.
+- Tích hợp AWS Rekognition và xử lý ảnh: Rekognition phân tích ảnh, SQS pipeline và SNS/SES cho thông báo.
+- Đưa toàn bộ hệ thống lên Cloud với IaC: dùng CloudFormation và SAM để triển khai tự động các microservices.
 
-**Kỹ năng Phát triển:**
-- Hiểu biết **Python** cho Lambda functions và **React** cho Frontend
-- Thành thạo **AWS SAM**, Docker, và CI/CD workflows
-- Giải quyết các vấn đề phức tạp: CORS, cross-stack references, async processing
-- Debug và optimize performance trong môi trường production
+**Kỹ Năng Phát Triển:**
+- React: thành thạo xây dựng UI với hooks và vòng đời component.
+- Tailwind CSS: thiết kế giao diện nhanh với utility classes cho layout responsive, linh hoạt.
+- PostCSS: cấu hình tối ưu CSS, quản lý lớp tiện ích của Tailwind hiệu quả.
+- JavaScript (ES6+): áp dụng async/await, destructuring, arrow functions, modules cho xử lý dữ liệu và gọi API backend.
+- CI/CD và Docker: thành thạo workflow CI/CD, tự động hóa deploy và container hóa frontend/backend bằng Docker.
+- Công cụ quản lý dự án: dùng Git để quản lý mã nguồn, GitHub để quản lý phiên bản dự án.
 
 **Soft Skills:**
 - Làm việc nhóm hiệu quả trong môi trường Agile

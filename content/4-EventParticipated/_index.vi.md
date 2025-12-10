@@ -16,16 +16,7 @@ pre: " <b> 4. </b> "
 
 ---
 
-## Event 2: DX<inAction> Talk#7: Reinventing DevSecOps with AWS Generative AI
-- **Thời gian tổ chức:** 16/10/2025
-- **Địa điểm:** Tầng 26, Tòa tháp Bitexco, 02 Đường Hải Triều, quận Sài Gòn, Thành Phố Hồ Chí Minh
-- **Vai trò:** Người tham dự
-- **Nội dung chính:** Khai thác chiến lược AI trong DevSecOps, phân tích case study từ CMC Global và AWS, giới thiệu các công cụ CI/CD, SAST/DAST và Amazon Q Developer.
-- **Kết quả/Bài học:** Hiểu giải pháp tích hợp AI trong DevSecOps, ứng dụng các công cụ vào dự án thực tế, định hướng phát triển chuyên môn DevSecOps.
-
----
-
-## Event 3: AWS Cloud Mastery Series #1 — AI/ML/GenAI on AWS
+## Event 2: AWS Cloud Mastery Series #1 — AI/ML/GenAI on AWS
 - **Thời gian tổ chức:** 15/11/2025
 - **Địa điểm:** Tầng 26, Tòa tháp Bitexco, 02 Đường Hải Triều, quận Sài Gòn, Thành Phố Hồ Chí Minh
 - **Vai trò:** Người tham dự
@@ -34,28 +25,4 @@ pre: " <b> 4. </b> "
 
 ---
 
-## Event 4: AWS Cloud Mastery Series #2 — DevOps on AWS
-- **Thời gian tổ chức:** 17/11/2025
-- **Địa điểm:** Tầng 26, Tòa tháp Bitexco, 02 Đường Hải Triều, quận Sài Gòn, Thành Phố Hồ Chí Minh
-- **Vai trò:** Người tham dự
-- **Nội dung chính:** Củng cố tư duy DevOps, giới thiệu dịch vụ CI/CD, IaC, Container, giám sát hệ thống, demo CI/CD pipeline và IaC.
-- **Kết quả/Bài học:** Chiến lược deployment, kiến thức IaC, giám sát hệ thống, áp dụng thực tiễn vào dự án.
-
----
-
-## Event 5: AWS Cloud Mastery Series #3 — Theo AWS Well-Architected Security Pillar
-- **Thời gian tổ chức:** 29/11/2025
-- **Địa điểm:** Tầng 26, Tòa tháp Bitexco, 02 Đường Hải Triều, quận Sài Gòn, Thành Phố Hồ Chí Minh
-- **Vai trò:** Người tham dự
-- **Nội dung chính:** Giới thiệu Security Pillar, hướng dẫn 5 trụ cột bảo mật Cloud, best practices, playbook xử lý sự cố, demo IAM Identity Center, Secrets Manager.
-- **Kết quả/Bài học:** Nắm nguyên tắc bảo mật, quản lý IAM nâng cao, bảo vệ dữ liệu, xây dựng playbook xử lý sự cố, định hướng học tiếp về bảo mật Cloud.
-
----
-
-## Event 6: Vietnam Cloud Day HCMC Connect Edition
-- **Thời gian tổ chức:** 18/09/2025
-- **Địa điểm:** Tầng 26, Tòa tháp Bitexco, 02 Đường Hải Triều, quận Sài Gòn, Thành Phố Hồ Chí Minh
-- **Vai trò:** Người tham dự
-- **Nội dung chính:** Track 1 — AI, Data & Infrastructure Modernization: Xây dựng Data Foundation cho AI, lộ trình Generative AI trên AWS, AI-Driven Development Lifecycle (AI-DLC), bảo mật cho GenAI và AI Agents.
-- **Kết quả/Bài học:** Hiểu rõ cách thiết kế nền tảng dữ liệu cho AI, nhận diện các công cụ và dịch vụ hỗ trợ GenAI (ví dụ Bedrock), nắm các chiến lược bảo mật đặc thù cho GenAI và các cân nhắc kiến trúc (Serverless vs Container) cho dự án.
 

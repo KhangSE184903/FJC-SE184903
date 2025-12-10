@@ -15,17 +15,21 @@ During my 12-week internship at **Amazon Web Services Vietnam Co., Ltd.** (Septe
 I participated in developing the **Travel Guide Application** - a travel journey sharing platform with a complete Serverless architecture, including:
 
 **Technical Achievements:**
-- Built **Backend API** with 15+ Lambda functions, API Gateway, and Cognito Authentication
-- Designed **6 DynamoDB tables** optimized with GSI for complex query patterns
-- Integrated **AI Image Processing** with Rekognition, SQS pipeline, and SNS/SES notifications
-- Implemented **Infrastructure as Code** with deployment automation scripts
-- Configured **IAM roles & policies** following least privilege principle
+- Deployed AWS CloudFront for React apps (static & dynamic): distributing static assets (images, JS, CSS) and dynamic APIs.
+- Built backend with Amazon S3 for file uploads: integrated pre-signed URLs from frontend to S3.
+- Integrated AWS Location Service: added maps and place search to the app.
+- Built serverless backend with Lambda: APIs and backend logic via Lambda functions.
+- Configured IAM roles and policies: enforced least-privilege access for AWS services.
+- Integrated AWS Rekognition and image processing: Rekognition analysis with SQS pipeline and SNS/SES notifications.
+- End-to-end Cloud with Infrastructure as Code: used CloudFormation and SAM to deploy microservices automatically.
 
 **Skills Developed:**
-- Understand **Python** for Lambda functions and **React** for Frontend
-- Proficient in **AWS SAM**, Docker, and CI/CD workflows
-- Solved complex problems: CORS, cross-stack references, async processing
-- Debugged and optimized performance in production environment
+- React: proficient in building UI with hooks and component lifecycle.
+- Tailwind CSS: rapid UI design with utility classes for responsive, flexible layouts.
+- PostCSS: configured to optimize CSS and manage Tailwind utilities efficiently.
+- JavaScript (ES6+): applied async/await, destructuring, arrow functions, modules for data handling and backend API integration.
+- CI/CD and Docker: mastered CI/CD workflows, automated deployments, and containerized frontend/backend apps with Docker.
+- Project tooling: used Git for source control and GitHub for project versioning.
 
 **Soft Skills:**
 - Effective teamwork in Agile environment
